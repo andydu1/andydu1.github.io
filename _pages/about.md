@@ -8,10 +8,10 @@ title: "About Andy Du"
 
 Andy is passionate about human-centered design and engineering from a systems perspective. 
 
-* Education: Vanderbilt University
-  * BE Mechanical Engineering
-    ** Minors: Engineering Management, Digital Fabrication
-* Internship: Northrop Grumman
+* Vanderbilt University
+  * BE: Mechanical Engineering
+  * Minors: Engineering Management, Digital Fabrication
+* Northrop Grumman Corporation
   * Habitation and Logistics Outpost (HALO) Systems Engineering Intern
   * Worked on Co-Manifest Vehicle (CMV) Requirements and Interfaces
 
