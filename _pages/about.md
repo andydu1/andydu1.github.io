@@ -1,31 +1,43 @@
 ---
 
-title: "About David Florian"
+title: "About Andy Du"
 
 ---
 
-## Education
+## Experience
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Andy is passionate about human-centered design and engineering from a systems perspective. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Education: Vanderbilt University
+  * BE Mechanical Engineering
+    ** Minors: Engineering Management, Digital Fabrication
+* Internship: Northrop Grumman
+  * Habitation and Logistics Outpost (HALO) Systems Engineering Intern
+  * Worked on Co-Manifest Vehicle (CMV) Requirements and Interfaces
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Andy has used various tools for prototyping, fabricating, and building devices. Andy has hands-on experience with the following technologies:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Laser Cutting
+* Cleanroom Fabrication Techniques
+  * Photolithography
+  * Spin Coating
+  * Electron-beam Deposition
+  * Nanosphere Grayscale Lithography
+* Computer Aided Design
+  * SOLIDWORKS
+  * Fusion 360
+  * Creo Parametric
+  * Onshape
+* Arduino
+* LabVIEW
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Andy's work in this class "How To Make (Almost) Anything" with the Del Fuego Project was covered by [Vanderbilt News](https://news.vanderbilt.edu/2021/08/24/wondry-students-collaborate-with-the-del-fuego-project-to-design-innovations-in-the-coffee-drying-process/).
 
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+One of Andy's scanning electron microscope images was also selected by [the Vanderbilt Institute of Nanoscale Science and Engineering](https://www.linkedin.com/feed/update/urn:li:activity:6868664681444208640/) as a winner of the 2021 VINSE Image Competition.
+
+![David Florian](/assets/img/headshot.jpg)
