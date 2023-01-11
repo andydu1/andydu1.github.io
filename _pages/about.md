@@ -38,18 +38,18 @@ Andy is passionate about human-centered design and engineering from a systems pe
 Andy has used various tools for prototyping, fabricating, and building devices. Andy has hands-on experience with the following technologies:
 
 * Digital Fabrication Tools
- * Fused Filament Fabrication (FFF)
- * Laser Cutting
+  * Fused Filament Fabrication (FFF)
+  * Laser Cutting
 * Cleanroom Fabrication Techniques
- * Photolithography
- * Spin Coating
- * Electron-beam Deposition
- * Nanosphere Grayscale Lithography
+  * Photolithography
+  * Spin Coating
+  * Electron-beam Deposition
+  * Nanosphere Grayscale Lithography
 * Computer Aided Design
- * SOLIDWORKS
- * Fusion 360
- * Creo Parametric
- * Onshape
+  * SOLIDWORKS
+  * Fusion 360
+  * Creo Parametric
+  * Onshape
 * Arduino
 * LabVIEW
 
