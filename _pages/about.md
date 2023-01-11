@@ -9,13 +9,17 @@ Andy is passionate about human-centered design and engineering from a systems pe
 ## Education
 
 **Vanderbilt University**
+
 *Expected Graduation: 2023*
+
 * BE: Mechanical Engineering
 * Minors: Engineering Management, Digital Fabrication
 
 
 ## Work Experience
+
 **Northrop Grumman Corporation**
+
 *Co-Manifested Vehicle (CMV) Requirements and Interfaces Intern*
 
 ![HALO CMV](/assets/img/HALO CMV.jpg)
