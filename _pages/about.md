@@ -4,16 +4,30 @@ title: "About Andy Du"
 
 ---
 
-## Experience
+Andy is passionate about human-centered design and engineering from a systems perspective. He is seeking to expand his horizons through enriching hands-on experiences.
 
-Andy is passionate about human-centered design and engineering from a systems perspective. 
+## Education
 
-* Vanderbilt University
-  * BE: Mechanical Engineering
-  * Minors: Engineering Management, Digital Fabrication
-* Northrop Grumman Corporation
-  * Habitation and Logistics Outpost (HALO) Systems Engineering Intern
-  * Worked on Co-Manifest Vehicle (CMV) Requirements and Interfaces
+**Vanderbilt University**
+*Expected Graduation: 2023*
+* BE: Mechanical Engineering
+* Minors: Engineering Management, Digital Fabrication
+
+
+## Work Experience
+**Northrop Grumman Corporation**
+*Co-Manifested Vehicle (CMV) Requirements and Interfaces Intern*
+
+![HALO CMV](/assets/img/HALO CMV.jpg)
+
+* Developed requirements for CMV development from a systems engineering perspective
+* Managed and maintained the interface between Northrop Grumman's Habitation and Logistics Outpost (HALO) and the Power and Propulsion Element (PPE)
+ * Together, these two modules will serve as the initial configuration of NASA's Lunar Gateway
+* Worked with NG, NASA, and Maxar partners to coordinate development of CMV System Requirements Document (SRD) requirements and verifications
+* Reviewed and implemented comments from NASA regarding CMV SRD requirements and verifications
+* Used IBM Rational DOORS software to review and correct different revisions of the CMV SRD
+* Created Visio interface diagrams showing various physical CMV test configurations
+
 
 ## Technical Skills
 
