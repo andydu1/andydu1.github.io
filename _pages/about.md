@@ -40,4 +40,4 @@ Andy's work with the Del Fuego Project in the class "How To Make (Almost) Anythi
 
 One of Andy's scanning electron microscope images was also selected by the [Vanderbilt Institute of Nanoscale Science and Engineering](https://www.linkedin.com/feed/update/urn:li:activity:6868664681444208640/) as a winner of the 2021 VINSE Image Competition.
 
-![Andy Du](/assets/img/headshot.jpg)
+![Andy Du](/assets/img/headshot.png)
