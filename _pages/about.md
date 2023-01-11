@@ -37,25 +37,26 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 Andy has used various tools for prototyping, fabricating, and building devices. Andy has hands-on experience with the following technologies:
 
-* Fused Filament Fabrication (FFF)
-* Laser Cutting
+* Digital Fabrication Tools
+ * Fused Filament Fabrication (FFF)
+ * Laser Cutting
 * Cleanroom Fabrication Techniques
-  * Photolithography
-  * Spin Coating
-  * Electron-beam Deposition
-  * Nanosphere Grayscale Lithography
+ * Photolithography
+ * Spin Coating
+ * Electron-beam Deposition
+ * Nanosphere Grayscale Lithography
 * Computer Aided Design
-  * SOLIDWORKS
-  * Fusion 360
-  * Creo Parametric
-  * Onshape
+ * SOLIDWORKS
+ * Fusion 360
+ * Creo Parametric
+ * Onshape
 * Arduino
 * LabVIEW
 
-## Press 
+## Publications & Awards 
 
-Andy's work with the Del Fuego Project in the class "How To Make (Almost) Anything" was covered by [Vanderbilt News](https://news.vanderbilt.edu/2021/08/24/wondry-students-collaborate-with-the-del-fuego-project-to-design-innovations-in-the-coffee-drying-process/).
-
-One of Andy's scanning electron microscope images was also selected by the [Vanderbilt Institute of Nanoscale Science and Engineering](https://www.linkedin.com/feed/update/urn:li:activity:6868664681444208640/) as a winner of the 2021 VINSE Image Competition.
+* Andy's fourth-authored paper ["Large-Scale Metasurfaces Based on Grayscale Nanosphere Lithography"](https://pubs.acs.org/doi/10.1021/acsphotonics.1c00424) was published in ACS Photonics in June 2021.
+* Andy's work with the Del Fuego Project in the class "How To Make (Almost) Anything" was covered by [Vanderbilt News](https://news.vanderbilt.edu/2021/08/24/wondry-students-collaborate-with-the-del-fuego-project-to-design-innovations-in-the-coffee-drying-process/).
+* One of Andy's scanning electron microscope images was selected by the [Vanderbilt Institute of Nanoscale Science and Engineering](https://www.linkedin.com/feed/update/urn:li:activity:6868664681444208640/) as a winner of the 2021 VINSE Image Competition.
 
 ![Andy Du](/assets/img/headshot.png)
