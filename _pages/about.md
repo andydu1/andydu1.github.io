@@ -22,7 +22,7 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 *Co-Manifested Vehicle (CMV) Requirements and Interfaces Intern*
 
-![HALO CMV](/assets/img/HALO CMV.jpg)
+![HALO CMV](/assets/img/HALO-CMV.jpg)
 
 * Developed requirements for CMV development from a systems engineering perspective
 * Managed and maintained the interface between Northrop Grumman's Habitation and Logistics Outpost (HALO) and the Power and Propulsion Element (PPE)
