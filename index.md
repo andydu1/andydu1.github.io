@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Andy Du"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Andy Du is a senior at Vanderbilt University majoring in Mechanical Engineering. He is passionate about human-centered design, systems engineering, and hands-on learning."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
