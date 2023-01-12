@@ -14,10 +14,10 @@ feature_row:
     alt: "Scanning electron microscope image of an array of nanopillars"
     title: "Optical Metasurface Research"
     excerpt: "SEM image of nanopillars from an optical metasurface."
-  - image_path: assets/img/hapimask.png
-    alt: "woman with mask on with green LED lit to indicate she is smiling"
-    title: "HapiMask"
-    excerpt: "Smart mask that indicates when the user is smiling."
+  - image_path: assets/img/syringerender.png
+    alt: "syringe pump"
+    title: "Syringe Pump"
+    excerpt: "Programmable syringe pump for gradually administering fluids."
   - image_path: assets/img/gearedupcoaster.png
     title: "Geared-up Coaster"
     excerpt: "Laser cut acrylic and MDF coaster with functional gears. "
