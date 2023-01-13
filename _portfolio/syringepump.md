@@ -71,4 +71,10 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) (Qty: 1)|![led](/assets/img/rgb-led.png) |
 
 
+## 3D Printed Custom Components
+
+| Component | Image |
+| :---: | :---: |
+| Back Barrel Stabilizer (Lower) | <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e432864bdbf63642915?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> |
+| Back Barrel Stabilizer (Upper) | <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43dff846d5697f7e89?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe> |
 {% include gallery caption="Syringe Pump Gallery" %}
