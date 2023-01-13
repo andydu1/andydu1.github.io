@@ -34,11 +34,21 @@ gallery:
 ## Off-the-shelf Components
 
 | Component | Image |
-| --- | --- |
-| test | test |
+| :---: | :---: |
 | [200mm lead screw with 2mm pitch and 2mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) (Qty: 1) | ![lead screw](/assets/img/lead-screw.png) |
 | [1/4" x 8mm flexible coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) (Qty: 1) | ![flexible coupler](/assets/img/coupler.png) |
 | [200mm linear rod with 8mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) (Qty: 1) | ![linear rod](/assets/img/linear-rod.png) |
+| [LM8UU Linear bearing for 8 mm diameter rod](https://www.amazon.com/gp/product/B087WPGQ8T/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1) (Qty: 1) | ![linear bearing](/assets/img/linear-bearing.png) |
+| [2040 Aluminum Extrusion 1' Length](https://www.mcmaster.com/5537T111-5537T705/) (Qty: 1)|![aluminum extrusion](/assets/img/aluminum-extrusion.png) |
+| [Nema 17 Stepper Motor](https://amzn.to/3uhifWk) (Qty: 1)|![stepper motor](/assets/img/stepper-motor.png) |
+| [MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp](https://www.amazon.com/dp/B005T9HGLI/ref=cm_sw_em_r_mt_dp_A8CZ056TM52EJGZTGZGR?_encoding=UTF8&psc=1) (Qty: 1)|![power supply](/assets/img/power-supply.png) |
+| [Arduino Mega 2560 Rev3](https://store-usa.arduino.cc/products/arduino-mega-2560-rev3?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HCpYGPXYZpUHqSCbRvcypBRSy0fxXCmZ6QMJiy3R5KAkIgQi9zCMLkaAhSPEALw_wcB) (Qty: 1)|![arduino mega](/assets/img/arduino.png) |
+| [A4988 Stepper Driver](https://www.amazon.com/dp/B01FFGAKK8/ref=cm_sw_em_r_mt_dp_V0YKTYKDWMR8WHTKA53T?_encoding=UTF8&psc=1) (Qty: 1)|![stepper driver](/assets/img/stepper-motor-driver.png) |
+| [Small Breadboard](https://www.amazon.com/dp/B082VYXDF1/ref=cm_sw_em_r_mt_dp_N6Q28CAGPAYCKCSJKDDC?_encoding=UTF8&psc=1) (Qty: 1)|![breadboard](/assets/img/breadboard.png) |
+| [Panel Mount Latching Push Button](https://amzn.to/3VxQ29h) (Qty: 1)|![latching button](/assets/img/latching-button.png) |
+| [Panel Mount Push Buttons](https://www.powell.com/item/NKK-Switches-SB4011NCHC-GSorAZ/932601?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HCQ814XKUIVRemMtCSky3Tf8c1YS2d9YzIKI5ts8nIdQiJWsgAqGwMaAm86EALw_wcB) (Qty: 2)|![push button](/assets/img/push-button.png) |
+| [Limit Switch](https://amzn.to/3Veb1Ox) (Qty: 1)|![limit switch](/assets/img/limit-switch.png) |
+| [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) (Qty: 1)|![led](/assets/img/rgb-led.png) |
 
 
 ## CAD Model
