@@ -6,18 +6,30 @@ header:
   teaser: /assets/img/syringerender2.png
 gallery:
   - image_path: assets/img/syringepump2.jpg
-  - image_path: assets/img/syringepump3.jpg
   - image_path: assets/img/syringerender3.png
   - image_path: assets/img/syringerender4.png
-  - image_path: assets/img/syringerender5.png
    
 ---
 
+# Purpose
+
+* Syringe pumps are motor driven devices used to **administer fluid over a period of time**.
+* They are used for various purposes, notably in **clinical settings and medical facilities** for administering medicines and other drugs, as well as in **research settings** for microfluidic, biomedical, and chemical applications.
+* Syringe pumps allow for sterility by limiting cross-contamination when switching between syringes, they allow fluids of high viscosity to be pumped, and they are highly accurate.
+* While the mechanism behind syringe pumps is fairly simple, **commercially available options are expensive** and can cost several hundred dollars.
+
+
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Stepper Motor Driven** A Nema 17 stepper motor was used to drive a 2mm pitch lead screw. As the lead screw rotates, the lead screw nut actuates linearly, moving the 3D-printed plunger holder forwards and backwards. A linear rod and linear bearing ensures the components all remain aligned on the same axis.
+* **Custom 3D-Printed Components** The motor mount, plunger holders, front barrel stabilizers, back barrel stabilizers, and box enclosure were all custom designed and 3D printed to be compatible with the off-the-shelf components.
+* **Compatible With Syringes of Different Diameters: 20 mL and 5 mL** The user can easily swap between two syringes of different diameters without requiring loosening or tightening of any fasteners. The default configuration where the syringe slots into the lower stage is for the larger 20 mL syringe. Three upper stage pieces (plunger holder, front barrel stabilizer, back barrel stabilizer) can slot into the lower stage to allow for the smaller 5 mL syringe to be used. When the upper stage pieces are not in use, they slot into the storage areas on the enclosure box.
+* **Limit Switch Sensor** A limit switch is triggered when the plunger holder pushes the syringe plunger all the way to the back barrel stabilizer, indicating that the syringe is fully empty.
+* **LED Status Indicator** An RGB LED indicates the current status of the syringe pump: *green* when the pump is active, *yellow* when paused, *red* when the syringe is empty, *purple* when moving in reverse, and *blue* when moving forward.
+* **Flow Rate Control Knob** A potentiometer mounted on the top of the enclosure box can be turned to easily modulate the flow rate from 0 - 10 mL/min.
+* **Status Control Buttons** A series of buttons mounted to the front of the enclosure box are used to operate the syringe pump. A latching start/stop button can be used to pump the syringe at the desired set flow rate. The forward and reverse buttons are used to calibrate the position of the plunger holder for loading the syringe such that the user does not need to manually turn the lead screw.  
+* **LCD Screen** An LCD screen is mounted on the side of the box that displays the *flow rate* of the pump as well as the *time remaining* until the syringe is fully empty.
+
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
