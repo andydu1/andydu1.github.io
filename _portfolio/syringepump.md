@@ -5,7 +5,7 @@ header:
   image: /assets/img/syringepump1.jpg
   teaser: /assets/img/syringerender2.png
 gallery:
-  - image_path: assets/img/syringepump2.jpg
+  - image_path: assets/img/syringepump2.JPG
   - image_path: assets/img/syringerender3.png
   - image_path: assets/img/syringerender4.png
    
@@ -29,6 +29,12 @@ gallery:
 * **Flow Rate Control Knob** A potentiometer mounted on the top of the enclosure box can be turned to easily modulate the flow rate from 0 - 10 mL/min.
 * **Status Control Buttons** A series of buttons mounted to the front of the enclosure box are used to operate the syringe pump. A latching start/stop button can be used to pump the syringe at the desired set flow rate. The forward and reverse buttons are used to calibrate the position of the plunger holder for loading the syringe such that the user does not need to manually turn the lead screw.  
 * **LCD Screen** An LCD screen is mounted on the side of the box that displays the *flow rate* of the pump as well as the *time remaining* until the syringe is fully empty.
+
+
+# Off-the-shelf Components
+| [200mm lead screw with 2mm pitch and 2mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) (Qty: 1) | ![lead screw](/assets/img/lead-screw.png) |
+| [1/4" x 8mm flexible coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) (Qty: 1) | [flexible coupler](/assets/img/coupler.png) |
+| [200mm linear rod with 8mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) (Qty: 1) | [linear rod](/assets/img/linear-rod.png) |
 
 
 # CAD Model
