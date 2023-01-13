@@ -75,6 +75,15 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 
 | Component | Image |
 | :---: | :---: |
-| Back Barrel Stabilizer (Lower) | <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e432864bdbf63642915?mode=embed" width="120" height="90" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>|
-| Back Barrel Stabilizer (Upper) | <pre><iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43dff846d5697f7e89?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe></pre>|
+| Back Barrel Stabilizer (Lower) | ![back lower](/assets/img/back-lower.png) |
+| Back Barrel Stabilizer (Upper) | ![back lower](/assets/img/back-upper.png) |
+| Front Barrel Stabilizer (Lower) | ![back lower](/assets/img/front-lower.png) |
+| Front Barrel Stabilizer (Upper) | ![back lower](/assets/img/front-upper.png) |
+| Plunger Holder (Lower) | ![back lower](/assets/img/plunger-lower.png) |
+| Plunger Holder (Upper) | ![back lower](/assets/img/plunger-upper.png) |
+| Motor Mount | ![back lower](/assets/img/motor-mount.png) |
+| Enclosure Box | ![back lower](/assets/img/box.png) |
+| Lid | ![back lower](/assets/img/lid.png) |
+
+
 {% include gallery caption="Syringe Pump Gallery" %}
