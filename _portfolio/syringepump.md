@@ -21,14 +21,34 @@ gallery:
 
 ## Features
 
-* **Stepper Motor Driven** A Nema 17 stepper motor was used to drive a 2mm pitch lead screw. As the lead screw rotates, the lead screw nut actuates linearly, moving the 3D-printed plunger holder forwards and backwards. A linear rod and linear bearing ensures the components all remain aligned on the same axis.
-* **Custom 3D-Printed Components** The motor mount, plunger holders, front barrel stabilizers, back barrel stabilizers, and box enclosure were all custom designed and 3D printed to be compatible with the off-the-shelf components.
-* **Compatible With Syringes of Different Diameters: 20 mL and 5 mL** The user can easily swap between two syringes of different diameters without requiring loosening or tightening of any fasteners. The default configuration where the syringe slots into the lower stage is for the larger 20 mL syringe. Three upper stage pieces (plunger holder, front barrel stabilizer, back barrel stabilizer) can slot into the lower stage to allow for the smaller 5 mL syringe to be used. When the upper stage pieces are not in use, they slot into the storage areas on the enclosure box.
-* **Limit Switch Sensor** A limit switch is triggered when the plunger holder pushes the syringe plunger all the way to the back barrel stabilizer, indicating that the syringe is fully empty.
-* **LED Status Indicator** An RGB LED indicates the current status of the syringe pump: *green* when the pump is active, *yellow* when paused, *red* when the syringe is empty, *purple* when moving in reverse, and *blue* when moving forward.
-* **Flow Rate Control Knob** A potentiometer mounted on the top of the enclosure box can be turned to easily modulate the flow rate from 0 - 10 mL/min.
-* **Status Control Buttons** A series of buttons mounted to the front of the enclosure box are used to operate the syringe pump. A latching start/stop button can be used to pump the syringe at the desired set flow rate. The forward and reverse buttons are used to calibrate the position of the plunger holder for loading the syringe such that the user does not need to manually turn the lead screw.  
-* **LCD Screen** An LCD screen is mounted on the side of the box that displays the *flow rate* of the pump as well as the *time remaining* until the syringe is fully empty.
+* **Stepper Motor Driven** 
+
+A Nema 17 stepper motor was used to drive a 2mm pitch lead screw. As the lead screw rotates, the lead screw nut actuates linearly, moving the 3D-printed plunger holder forwards and backwards. A linear rod and linear bearing ensures the components all remain aligned on the same axis.
+* **Custom 3D-Printed Components** 
+
+The motor mount, plunger holders, front barrel stabilizers, back barrel stabilizers, and box enclosure were all custom designed and 3D printed to be compatible with the off-the-shelf components.
+* **Compatible With Syringes of Different Diameters: 20 mL and 5 mL** 
+
+The user can easily swap between two syringes of different diameters without requiring loosening or tightening of any fasteners. The default configuration where the syringe slots into the lower stage is for the larger 20 mL syringe. Three upper stage pieces (plunger holder, front barrel stabilizer, back barrel stabilizer) can slot into the lower stage to allow for the smaller 5 mL syringe to be used. When the upper stage pieces are not in use, they slot into the storage areas on the enclosure box.
+* **Limit Switch Sensor** 
+
+A limit switch is triggered when the plunger holder pushes the syringe plunger all the way to the back barrel stabilizer, indicating that the syringe is fully empty.
+* **LED Status Indicator** 
+
+An RGB LED indicates the current status of the syringe pump: *green* when the pump is active, *yellow* when paused, *red* when the syringe is empty, *purple* when moving in reverse, and *blue* when moving forward.
+* **Flow Rate Control Knob** 
+
+A potentiometer mounted on the top of the enclosure box can be turned to easily modulate the flow rate from 0 - 10 mL/min.
+* **Status Control Buttons** 
+
+A series of buttons mounted to the front of the enclosure box are used to operate the syringe pump. A latching start/stop button can be used to pump the syringe at the desired set flow rate. The forward and reverse buttons are used to calibrate the position of the plunger holder for loading the syringe such that the user does not need to manually turn the lead screw.  
+* **LCD Screen** 
+
+An LCD screen is mounted on the side of the box that displays the *flow rate* of the pump as well as the *time remaining* until the syringe is fully empty.
+
+
+## CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 ## Off-the-shelf Components
@@ -50,8 +70,5 @@ gallery:
 | [Limit Switch](https://amzn.to/3Veb1Ox) (Qty: 1)|![limit switch](/assets/img/limit-switch.png) |
 | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) (Qty: 1)|![led](/assets/img/rgb-led.png) |
 
-
-## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Syringe Pump Gallery" %}
