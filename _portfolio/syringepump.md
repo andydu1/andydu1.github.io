@@ -75,15 +75,15 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 
 | Component | Image |
 | :---: | :---: |
-| Back Barrel Stabilizer (Lower) | <img src="/assets/img/back-lower.png" alt="back lower" width="15%"/> |
-| Back Barrel Stabilizer (Upper) | ![back upper](/assets/img/back-upper.PNG) |
-| Front Barrel Stabilizer (Lower) | ![front lower](/assets/img/front-lower.png) |
-| Front Barrel Stabilizer (Upper) | ![front upper](/assets/img/front-upper.png) |
-| Plunger Holder (Lower) | ![plunger lower](/assets/img/plunger-lower.png) |
-| Plunger Holder (Upper) | ![plunger upper](/assets/img/plunger-upper.png) |
-| Motor Mount | ![motor mount](/assets/img/motor-mount.png) |
-| Enclosure Box | ![box](/assets/img/box.png) |
-| Lid | ![lid](/assets/img/lid.png) |
+| Back Barrel Stabilizer (Lower) | <img src="/assets/img/back-lower.png" alt="back lower" width="35%"/> |
+| Back Barrel Stabilizer (Upper) | <img src="/assets/img/back-upper.png" alt="back upper" width="35%"/> |
+| Front Barrel Stabilizer (Lower) | <img src="/assets/img/front-lower.png" alt="front lower" width="35%"/> |
+| Front Barrel Stabilizer (Upper) | <img src="/assets/img/front upper.png" alt="front upper" width="35%"/> |
+| Plunger Holder (Lower) | <img src="/assets/img/plunger-lower.png" alt="plunger lower" width="35%"/> |
+| Plunger Holder (Upper) | <img src="/assets/img/plunger-upper.png" alt="plunger-upper" width="35%"/> |
+| Motor Mount | <img src="/assets/img/motor-mount.png" alt="motor mount" width="35%"/> |
+| Enclosure Box | <img src="/assets/img/box.png" alt="box" width="35%"/> |
+| Lid | <img src="/assets/img/lid.png" alt="lid" width="35%"/> |
 
 
 {% include gallery caption="Syringe Pump Gallery" %}
