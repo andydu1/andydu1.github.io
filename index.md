@@ -18,9 +18,9 @@ feature_row:
     alt: "syringe pump"
     title: "Syringe Pump"
     excerpt: "Programmable syringe pump for gradually administering fluids."
-  - image_path: assets/img/gearedupcoaster.png
-    title: "Geared-up Coaster"
-    excerpt: "Laser cut acrylic and MDF coaster with functional gears. "
+  - image_path: assets/img/bikelight.png
+    title: "BikeLight"
+    excerpt: "Automated wearable bicycle signaling lights. "
 ---
 
 {% include feature_row %}
