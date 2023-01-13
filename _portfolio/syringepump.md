@@ -32,6 +32,8 @@ gallery:
 
 
 # Off-the-shelf Components
+| Component | Image |
+| --- | --- |
 | [200mm lead screw with 2mm pitch and 2mm lead](https://www.amazon.com/dp/B07R1H5ZMV/ref=cm_sw_em_r_mt_dp_0YZ13D4HQBGW2Z86PBV1?_encoding=UTF8&psc=1) (Qty: 1) | ![lead screw](/assets/img/lead-screw.png) |
 | [1/4" x 8mm flexible coupling](https://openbuildspartstore.com/1-4-x-8mm-flexible-coupling/) (Qty: 1) | [flexible coupler](/assets/img/coupler.png) |
 | [200mm linear rod with 8mm diameter](https://www.amazon.com/dp/B07MPGWJMS/ref=cm_sw_em_r_mt_dp_X5AQS0ES7JH8JG83AAZ3) (Qty: 1) | [linear rod](/assets/img/linear-rod.png) |
