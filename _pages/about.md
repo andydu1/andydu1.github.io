@@ -10,7 +10,7 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 **Vanderbilt University** 
 
-<img src="/assets/img/Vanderbilt_University_logo.png" alt="Vanderbilt University logo" height="50%"/>
+<img src="/assets/img/Vanderbilt_University_logo.png" alt="Vanderbilt University logo" width="10%"/>
 
 *Expected Graduation: 2023*
 
@@ -25,7 +25,7 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 *Co-Manifested Vehicle (CMV) Requirements and Interfaces Intern*
 
-<img src="/assets/img/HALO-CMV.jpg" alt="HALO CMV" width="50%"/>
+<img src="/assets/img/HALO-CMV.jpg" alt="HALO CMV" width="25%"/>
 
 * Developed requirements for CMV development from a systems engineering perspective
 * Managed and maintained the interface between Northrop Grumman's Habitation and Logistics Outpost (HALO) and the Power and Propulsion Element (PPE)
@@ -62,4 +62,4 @@ Andy has used various tools for prototyping, fabricating, and building devices. 
 * Andy's work with the Del Fuego Project in the class "How To Make (Almost) Anything" was covered by [Vanderbilt News](https://news.vanderbilt.edu/2021/08/24/wondry-students-collaborate-with-the-del-fuego-project-to-design-innovations-in-the-coffee-drying-process/).
 * One of Andy's scanning electron microscope images was selected by the [Vanderbilt Institute of Nanoscale Science and Engineering](https://www.linkedin.com/feed/update/urn:li:activity:6868664681444208640/) as a winner of the 2021 VINSE Image Competition.
 
-<img src="/assets/img/headshot.png" alt="headshot of Andy Du" width="50%"/>
+<img src="/assets/img/headshot.png" alt="headshot of Andy Du" width="15%"/>
