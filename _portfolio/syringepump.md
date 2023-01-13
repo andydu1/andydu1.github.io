@@ -52,7 +52,7 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 
 ## Arduino Code
 
-[Link to Arduino code](andydu1.github.io/syringepumpcode.ino)
+[Link to Arduino code](syringepumpcode.ino)
 
 
 ## Off-the-shelf Components
