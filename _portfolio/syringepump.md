@@ -50,6 +50,10 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Arduino Code
+
+[Link to Arduino code](andydu1.github.io/syringepumpcode.ino)
+
 
 ## Off-the-shelf Components
 
@@ -76,9 +80,9 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 | Component | Image |
 | :---: | :---: |
 | Back Barrel Stabilizer (Lower) | <img src="/assets/img/back-lower.png" alt="back lower" width="35%"/> |
-| Back Barrel Stabilizer (Upper) | <img src="/assets/img/back-upper.png" alt="back upper" width="35%"/> |
+| Back Barrel Stabilizer (Upper) | <img src="/assets/img/back-upper.PNG" alt="back upper" width="35%"/> |
 | Front Barrel Stabilizer (Lower) | <img src="/assets/img/front-lower.png" alt="front lower" width="35%"/> |
-| Front Barrel Stabilizer (Upper) | <img src="/assets/img/front upper.png" alt="front upper" width="35%"/> |
+| Front Barrel Stabilizer (Upper) | <img src="/assets/img/front-upper.png" alt="front upper" width="35%"/> |
 | Plunger Holder (Lower) | <img src="/assets/img/plunger-lower.png" alt="plunger lower" width="35%"/> |
 | Plunger Holder (Upper) | <img src="/assets/img/plunger-upper.png" alt="plunger-upper" width="35%"/> |
 | Motor Mount | <img src="/assets/img/motor-mount.png" alt="motor mount" width="35%"/> |
