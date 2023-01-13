@@ -10,7 +10,6 @@ gallery:
   - image_path: assets/img/syringerender3.png
   - image_path: assets/img/syringerender4.png
   - image_path: assets/img/syringerender5.png
-  - image_path: assets/img/syringevideo.MOV
    
 ---
 
@@ -23,4 +22,4 @@ gallery:
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Syringe Pump" %}
+{% include gallery caption="Syringe Pump Gallery" %}
