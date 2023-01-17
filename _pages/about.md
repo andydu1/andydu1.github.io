@@ -14,9 +14,9 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 *Expected Graduation: 2023*
 
-* BE: Mechanical Engineering
-* Minors: Engineering Management, Digital Fabrication
-* Activities: Double Major A Cappella (President, Music Director), SyBBURE Searle Undergraduate Research Program, Tikkun Olam Makers (TOM)
+* **BE:** Mechanical Engineering
+* **Minors:** Engineering Management, Digital Fabrication
+* **Activities:** Double Major A Cappella (President, Music Director), SyBBURE Searle Undergraduate Research Program, Tikkun Olam Makers (TOM)
 
 
 ## Work Experience
@@ -43,6 +43,7 @@ Andy has used various tools for prototyping, fabricating, and building devices. 
 * Digital Fabrication Tools
   * Fused Filament Fabrication (FFF)
   * Laser Cutting
+  * Electrical Prototyping
 * Cleanroom Fabrication Techniques
   * Photolithography
   * Spin Coating
