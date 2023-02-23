@@ -2,12 +2,14 @@
 title: "Print-in-Place Multimaterial Pliers"
 excerpt: "Independent dual extrusion 3D printed flexible pliers."
 header:
-  image: /assets/img/syringepump1.jpg
-  teaser: /assets/img/syringerender2.png
+  image: /assets/img/pliers-v3-2.jpg
+  teaser: /assets/img/pliers-v3-3.jpg
 gallery:
-  - image_path: assets/img/syringepump2.JPG
-  - image_path: assets/img/syringerender3.png
-  - image_path: assets/img/syringerender4.png
+  - image_path: assets/img/pliers-render-1.png
+  - image_path: assets/img/pliers-render-2.png
+  - image_path: assets/img/pliers-see-through-1.png
+  - image_path: assets/img/pliers-see-through-2.png
+  - image_path: assets/img/pliers-see-through-3.png
    
 ---
 
