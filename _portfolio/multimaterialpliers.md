@@ -2,8 +2,8 @@
 title: "Print-in-Place Multimaterial Pliers"
 excerpt: "Independent dual extrusion 3D printed flexible pliers."
 header:
-  image: /assets/img/pliers-v3-2.jpg
-  teaser: /assets/img/pliers-v3-3.jpg
+  image: /assets/img/pliers-v3-2.JPG
+  teaser: /assets/img/pliers-v3-3.JPG
 gallery:
   - image_path: assets/img/pliers-render-1.png
   - image_path: assets/img/pliers-render-2.png
