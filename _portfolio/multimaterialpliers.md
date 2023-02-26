@@ -37,7 +37,7 @@ gallery:
 * Due to the nature of the flexible TPU and the square lattice shape, the joint is also **able to flex outwards when the handles are pulled apart**. This allows for the maximum jaw capacity to actually increase beyond the resting jaw capacity.
 
 ### Interface Connections
-![see through 1](assets/img/pliers-see-through-4.png)
+![see through 4](/assets/img/pliers-see-through-4.png)
 
 * Since PLA and TPU do not stick together naturally, a **mechanical joint mechanism** was needed between the TPU and PLA parts to ensure that the handles and tips stayed connected to the flexible spring component.
 * The capabilities of dual extrusion 3D printing were leveraged to create an **internal hook and loop mechanism.**
@@ -51,6 +51,8 @@ gallery:
 
 
 ## Phyiscal Specifications
+![dimensions](/assets/img/plier dimensions.png)
+
 * Jaw Length: 21.5 mm
 * Resting Jaw Capacity: 8.5 mm
 * Maximum Jaw Capacity: 25 mm
@@ -59,11 +61,11 @@ gallery:
 
 | Component | Image |
 | :---: | :---: |
-| Joint | <img src="/assets/img/pliers joint.png" alt="back lower" width="35%"/> |
-| Handle (Left) | <img src="/assets/img/pliers handle 1.PNG" alt="back upper" width="35%"/> |
-| Handle (Right) | <img src="/assets/img/pliers handle 2.png" alt="front lower" width="35%"/> |
-| Tip (Left) | <img src="/assets/img/pliers tip 1.png" alt="front upper" width="35%"/> |
-| Tip (Right) | <img src="/assets/img/pliers tip 2.png" alt="plunger lower" width="35%"/> |
+| Joint | <img src="/assets/img/pliers joint.png" alt="joint" width="35%"/> |
+| Handle (Left) | <img src="/assets/img/pliers handle 1.png" alt="left handle" width="35%"/> |
+| Handle (Right) | <img src="/assets/img/pliers handle 2.png" alt="right handle" width="35%"/> |
+| Tip (Left) | <img src="/assets/img/pliers tip 1.png" alt="left tip" width="35%"/> |
+| Tip (Right) | <img src="/assets/img/pliers tip 2.png" alt="right tip" width="35%"/> |
 
 
 {% include gallery caption="Syringe Pump Gallery" %}
