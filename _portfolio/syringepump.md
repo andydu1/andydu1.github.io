@@ -2,7 +2,7 @@
 title: "Syringe Pump"
 excerpt: "A low cost, custom built instrument for administering fluids at a set rate."
 header:
-  image: /assets/img/syringepump1.jpg
+  image: /assets/img/syringe pump no bg.png
   teaser: /assets/img/syringerender2.png
 gallery:
   - image_path: assets/img/syringepump2.JPG
