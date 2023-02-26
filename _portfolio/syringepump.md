@@ -18,6 +18,7 @@ gallery:
 * Syringe pumps allow for sterility by limiting cross-contamination when switching between syringes, they allow fluids of high viscosity to be pumped, and they are highly accurate.
 * While the mechanism behind syringe pumps is fairly simple, **commercially available options are expensive** and can cost several hundred dollars.
 
+---
 
 ## Features
 
@@ -46,14 +47,12 @@ A series of buttons mounted to the front of the enclosure box are used to operat
 
 An LCD screen is mounted on the side of the box that displays the *flow rate* of the pump as well as the *time remaining* until the syringe is fully empty.
 
+---
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Arduino Code
-
-[Link to Arduino code](/syringepumpcode.ino)
-
+---
 
 ## Off-the-shelf Components
 
@@ -74,7 +73,6 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 | [Limit Switch](https://amzn.to/3Veb1Ox) (Qty: 1)|![limit switch](/assets/img/limit-switch.png) |
 | [RGB Common Cathode LED](https://www.amazon.com/dp/B0194Y6MW2/ref=cm_sw_em_r_mt_dp_FW3CFQT7ZGFQ2R04N6G3?_encoding=UTF8&psc=1) (Qty: 1)|![led](/assets/img/rgb-led.png) |
 
-
 ## 3D Printed Custom Components
 
 | Component | Image |
@@ -88,6 +86,8 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 | Motor Mount | <img src="/assets/img/motor-mount.png" alt="motor mount" width="35%"/> |
 | Enclosure Box | <img src="/assets/img/box.png" alt="box" width="35%"/> |
 | Lid | <img src="/assets/img/lid.png" alt="lid" width="35%"/> |
+
+---
 
 ## Arduino Code
 ```cpp
