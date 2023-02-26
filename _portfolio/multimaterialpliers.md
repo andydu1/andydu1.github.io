@@ -21,11 +21,11 @@ gallery:
   * Flexible materials, such as **thermoplastic polyurethane (TPU)**, can be incorporated into these models to allow for smoother actuation of the functional mechanisms.
 * To demonstrate the capabilities of dual extrusion 3D printing for functional print-in-place parts, **flexible needle nose pliers** were created using both PLA and TPU that are capable of gripping and picking up a 3 mm diameter plastic pellet.
 
----
+
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4306b1a15e68c111ea?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
----
+
 ## Design
 ### Materials and Print Settings
 * Traditional PLA filament was used for the hard plastic components (handles and tips). TPU 95A was used as the flexible filament for the spring component. 
@@ -56,7 +56,7 @@ gallery:
 * Circular cutouts were added to the handles to decrease the amount of filament used and to minimize print time.
 * Small, semicircular ridges were added to the tip surfaces to increase the gripping abilities of the pliers.
 
----
+
 ## Phyiscal Specifications
 ![dimensions](/assets/img/plier dimensions.png)
 
@@ -64,7 +64,7 @@ gallery:
 * Resting Jaw Capacity: 8.5 mm
 * Maximum Jaw Capacity: 24 mm
 
----
+
 ## 3D Printed Components
 
 | Component | Image |
@@ -75,7 +75,7 @@ gallery:
 | Tip (Left) | <img src="/assets/img/pliers tip 1.png" alt="left tip" width="35%"/> |
 | Tip (Right) | <img src="/assets/img/pliers tip 2.png" alt="right tip" width="35%"/> |
 
----
+
 ## Design Progression
 ### Version 1
 ![version 1](/assets/img/pliers-v1-3.png)
