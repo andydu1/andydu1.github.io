@@ -55,7 +55,7 @@ gallery:
 
 * Jaw Length: 21.5 mm
 * Resting Jaw Capacity: 8.5 mm
-* Maximum Jaw Capacity: 25 mm
+* Maximum Jaw Capacity: 24 mm
 
 ## 3D Printed Custom Components
 
