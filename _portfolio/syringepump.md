@@ -90,7 +90,7 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 | Lid | <img src="/assets/img/lid.png" alt="lid" width="35%"/> |
 
 ## Arduino Code
-```
+```C++
 // Import libraries
 #include <AccelStepper.h>
 #include <LiquidCrystal.h>
