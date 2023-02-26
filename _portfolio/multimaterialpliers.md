@@ -7,9 +7,8 @@ header:
 gallery:
   - image_path: assets/img/pliers-render-1.png
   - image_path: assets/img/pliers-render-2.png
-  - image_path: assets/img/pliers-see-through-1.png
-  - image_path: assets/img/pliers-see-through-2.png
-  - image_path: assets/img/pliers-see-through-3.png
+  - image_path: assets/img/pliers-v3-1.png
+  - image_path: assets/img/pliers-v3-3.png
    
 ---
 
