@@ -10,7 +10,6 @@ gallery:
   - image_path: assets/img/syringerender4.png
    
 ---
-
 ## Purpose
 
 * Syringe pumps are motor driven devices used to **administer fluid over a period of time**.
@@ -19,7 +18,6 @@ gallery:
 * While the mechanism behind syringe pumps is fairly simple, **commercially available options are expensive** and can cost several hundred dollars.
 
 ---
-
 ## Features
 
 * **Stepper Motor Driven** 
@@ -48,12 +46,10 @@ A series of buttons mounted to the front of the enclosure box are used to operat
 An LCD screen is mounted on the side of the box that displays the *flow rate* of the pump as well as the *time remaining* until the syringe is fully empty.
 
 ---
-
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
-
 ## Off-the-shelf Components
 
 | Component | Image |
@@ -88,7 +84,6 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 | Lid | <img src="/assets/img/lid.png" alt="lid" width="35%"/> |
 
 ---
-
 ## Arduino Code
 ```cpp
 // Import libraries
