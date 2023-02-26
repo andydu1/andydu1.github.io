@@ -11,7 +11,6 @@ gallery:
   - image_path: assets/img/pliers-v3-3.png
    
 ---
-
 ## Purpose
 
 * Print-in-place models are a 3D printing concept where **fully functional objects with movable parts** can be designed and printed in a way that they **work immediately after removal from the print bed.**
@@ -23,12 +22,10 @@ gallery:
 * To demonstrate the capabilities of dual extrusion 3D printing for functional print-in-place parts, **flexible needle nose pliers** were created using both PLA and TPU that are capable of gripping and picking up a 3 mm diameter plastic pellet.
 
 ---
-
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4306b1a15e68c111ea?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
-
 ## Design
 ### Materials and Print Settings
 * Traditional PLA filament was used for the hard plastic components (handles and tips). TPU 95A was used as the flexible filament for the spring component. 
@@ -60,7 +57,6 @@ gallery:
 * Small, semicircular ridges were added to the tip surfaces to increase the gripping abilities of the pliers.
 
 ---
-
 ## Phyiscal Specifications
 ![dimensions](/assets/img/plier dimensions.png)
 
@@ -69,7 +65,6 @@ gallery:
 * Maximum Jaw Capacity: 24 mm
 
 ---
-
 ## 3D Printed Components
 
 | Component | Image |
@@ -81,7 +76,6 @@ gallery:
 | Tip (Right) | <img src="/assets/img/pliers tip 2.png" alt="right tip" width="35%"/> |
 
 ---
-
 ## Design Progression
 ### Version 1
 ![version 1](/assets/img/pliers-v1-3.png)
