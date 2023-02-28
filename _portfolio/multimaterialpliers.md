@@ -22,6 +22,10 @@ gallery:
 * To demonstrate the capabilities of dual extrusion 3D printing for functional print-in-place parts, **flexible needle nose pliers** were created using both PLA and TPU that are capable of gripping and picking up a 3 mm diameter plastic pellet.
 
 
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mmE74WHk6mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4306b1a15e68c111ea?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
