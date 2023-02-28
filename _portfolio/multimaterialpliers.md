@@ -13,13 +13,13 @@ gallery:
 ---
 ## Purpose
 
-* Print-in-place models are a 3D printing concept where **fully functional objects with movable parts** can be designed and printed in a way that they **work immediately after removal from the print bed.**
-* This concept is often shown in Hollywood representations of 3D printing, where **no post-processing (i.e. removing support material) or assembly is required** and functional parts work directly off the print bed.
+* Print-in-place models are a 3D printing concept where **_fully functional objects with movable parts_** can be designed and printed in a way that they **_work immediately after removal from the print bed._**
+* This concept is often shown in Hollywood representations of 3D printing, where **_no post-processing (i.e. removing support material) or assembly is required_** and functional parts work directly off the print bed.
 * Print-in-place models can be created with traditional single material extrusion 3D printing by designing and orienting the object so there is ample clearance at joints to allow for motion or rotation. 
   * However, these parts are often unable to achieve smooth motion due to the material properties of solid plastic and the irregularities that arise from plastic FFF extrusion.
-* The capabilities of **dual extrusion 3D printing** can be leveraged to improve the motion of funcitonal print-in-place parts. 
-  * Flexible materials, such as **thermoplastic polyurethane (TPU)**, can be incorporated into these models to allow for smoother actuation of the functional mechanisms.
-* To demonstrate the capabilities of dual extrusion 3D printing for functional print-in-place parts, **flexible needle nose pliers** were created using both PLA and TPU that are capable of gripping and picking up a 3 mm diameter plastic pellet.
+* The capabilities of **_dual extrusion 3D printing_** can be leveraged to improve the motion of funcitonal print-in-place parts. 
+  * Flexible materials, such as **_thermoplastic polyurethane (TPU)_**, can be incorporated into these models to allow for smoother actuation of the functional mechanisms.
+* To demonstrate the capabilities of dual extrusion 3D printing for functional print-in-place parts, **_flexible needle nose pliers_** were created using both PLA and TPU that are capable of gripping and picking up a 3 mm diameter plastic pellet.
 
 
 ## Video
@@ -32,29 +32,30 @@ gallery:
 
 ## Design
 ### Materials and Print Settings
-* Traditional PLA filament was used for the hard plastic components (handles and tips). TPU 95A was used as the flexible filament for the spring component. 
-* A [MakerGear M3-ID](https://makergear.com/collections/m3-series-3d-printers/products/m3-id) printer with 0.35 mm dual extrusion nozzles was used to dual extrude both filaments.
-* The pliers were printed with wipe tower enabled to purge each nozzle prior to switching extruders for each layer, and to reduce the amount of ooze contamination in the part itself. 
+* Traditional PLA filament was used for the hard plastic components (handles and tips). **_TPU 95A_** was used as the flexible filament for the spring component. 
+* A **[_MakerGear M3-ID_]**(https://makergear.com/collections/m3-series-3d-printers/products/m3-id) printer with 0.35 mm dual extrusion nozzles was used to dual extrude both filaments.
+* The pliers were printed with **_wipe tower enabled_** to purge each nozzle prior to switching extruders for each layer, and to reduce the amount of ooze contamination in the part itself. 
   * This was particularly necessary for the TPU filament, which oozed a substantial amount when idle. 
   * For most layers, the TPU extruder did not start extruding until over half its layer on the wipe tower was printed.
   * While the wipe tower was necessary, the size of the wipe tower was decreased from a width of 60 mm to 40 mm to optimize the time and material required to print the pliers.
+* The bed temperature was set to **60 C**, nozzle 1 (PLA) was set to **215 C** and nozzle 2 (TPU) was set to **240 C**.
 * The maximum speed of the TPU extruder was capped at 25 mm/s to ensure that the extrusion gear did not grind the TPU filament too quickly and cause a jam. The retraction speed of the TPU extruder was capped at 15 mm/s.
 
 ### Flexible Spring Component
-* A 3x3 TPU square lattice was used as the flexible spring component. 
+* A **_3x3 TPU square lattice_** was used as the flexible spring component. 
   * This allows the plier tips to close when the handles are squeezed, but also reverts back to the original 'open' position when the handles are released.
 * A square lattice was selected so that the square shape would be able to flex into a parallelogram.
-* Due to the nature of the flexible TPU and the square lattice shape, the joint is also **able to flex outwards when the handles are pulled apart**. This allows for the maximum jaw capacity to actually increase beyond the resting jaw capacity.
+* Due to the nature of the flexible TPU and the square lattice shape, the joint is also **_able to flex outwards when the handles are pulled apart_**. This allows for the maximum jaw capacity to actually increase beyond the resting jaw capacity.
 
 ### Interface Connections
 ![see through 4](/assets/img/pliers-see-through-4.png)
 
-* Since PLA and TPU do not stick together naturally, a **mechanical joint mechanism** was needed between the TPU and PLA parts to ensure that the handles and tips stayed connected to the flexible spring component.
-* The capabilities of dual extrusion 3D printing were leveraged to create an **internal hook and loop mechanism.**
-  * Each connection face has a **2x7 grid** of hook and loop connectors.
+* Since PLA and TPU do not stick together naturally, a **_mechanical joint mechanism_** was needed between the TPU and PLA parts to ensure that the handles and tips stayed connected to the flexible spring component.
+* The capabilities of dual extrusion 3D printing were leveraged to create an **_internal hook and loop mechanism._**
+  * Each connection face has a **_2x7 grid_** of hook and loop connectors.
   * TPU hooks loop through PLA rods that are inside the PLA components. 
-  * As each layer is printed, **the PLA rods are enclosed by the TPU hooks** around them, physically constraining the two parts together. 
-* This joint mechanism can **only be made with dual extrusion 3D printing** since there are internal overlaps between different components.
+  * As each layer is printed, **_the PLA rods are enclosed by the TPU hooks_** around them, physically constraining the two parts together. 
+* This joint mechanism can **_only be made with dual extrusion 3D printing_** since there are internal overlaps between different components.
 
 ### PLA Components
 * Circular cutouts were added to the handles to decrease the amount of filament used and to minimize print time.
@@ -64,9 +65,9 @@ gallery:
 ## Phyiscal Specifications
 ![dimensions](/assets/img/plier dimensions.png)
 
-* Jaw Length: 21.5 mm
-* Resting Jaw Capacity: 8.5 mm
-* Maximum Jaw Capacity: 24 mm
+* **Jaw Length**: 21.5 mm
+* **Resting Jaw Capacity**: 8.5 mm
+* **Maximum Jaw Capacity**: 24 mm
 
 
 ## 3D Printed Components
