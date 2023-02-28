@@ -18,6 +18,10 @@ gallery:
 * While the mechanism behind syringe pumps is fairly simple, **commercially available options are expensive** and can cost several hundred dollars.
 
 
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/juA6pWC-I8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Features
 
 * **Stepper Motor Driven** 
