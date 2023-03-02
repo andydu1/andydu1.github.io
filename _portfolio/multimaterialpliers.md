@@ -11,6 +11,8 @@ gallery:
   - image_path: assets/img/pliers-v3-3.png
    
 ---
+[Link to Thingiverse page](https://www.thingiverse.com/thing:5886063)
+
 ## Purpose
 
 * Print-in-place models are a 3D printing concept where _fully functional objects with movable parts_ can be designed and printed in a way that they _work immediately after removal from the print bed._
