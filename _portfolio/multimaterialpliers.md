@@ -17,7 +17,7 @@ gallery:
 * This concept is often shown in Hollywood representations of 3D printing, where _no post-processing (i.e. removing support material) or assembly is required_ and functional parts work directly off the print bed.
 * Print-in-place models can be created with traditional single material extrusion 3D printing by designing and orienting the object so there is ample clearance at joints to allow for motion or rotation. 
   * However, these parts are often unable to achieve smooth motion due to the material properties of solid plastic and the irregularities that arise from plastic FFF extrusion.
-* The capabilities of _dual extrusion 3D printing_ can be leveraged to improve the motion of funcitonal print-in-place parts. 
+* The capabilities of _dual extrusion 3D printing_ can be leveraged to improve the motion of functional print-in-place parts. 
   * Flexible materials, such as _thermoplastic polyurethane (TPU)_, can be incorporated into these models to allow for smoother actuation of the functional mechanisms.
 * To demonstrate the capabilities of dual extrusion 3D printing for functional print-in-place parts, _flexible needle nose pliers_ were created using both PLA and TPU that are capable of gripping and picking up a 3 mm diameter plastic pellet.
 
