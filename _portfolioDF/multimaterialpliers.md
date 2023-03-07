@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Dual Extrusion Flexible Pliers"
 excerpt: "Print-in-place, dual extrusion 3D printed flexible pliers."
 header:

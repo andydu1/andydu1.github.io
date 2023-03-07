@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Syringe Pump"
 excerpt: "A low cost, custom built instrument for administering fluids at a set rate."
 header:
