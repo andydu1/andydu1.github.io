@@ -1,0 +1,35 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<style>
+    h2 {
+        margin: 1em 0 1em 0;
+        width: 100%;
+        line-height: initial;
+        font-family: -apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+    }
+    hr {
+        width: 100%
+    }
+</style>
+
+<hr/>
+
+<h2>{{ page.collectionTitle }}</h2>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
+
+<hr/>
+
+<h2>{{ page.collection2Title }}</h2>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection=page.collection2 sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+</div>
