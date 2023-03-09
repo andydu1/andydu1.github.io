@@ -104,4 +104,4 @@ gallery:
 * The thickness of TPU used was also decreased in V2, which resulted in much more flexible behavior.
 
 
-{% include gallery caption="Syringe Pump Gallery" %}
+{% include gallery caption="Flexible Pliers Gallery" %}
