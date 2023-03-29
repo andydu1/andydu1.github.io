@@ -58,9 +58,17 @@ gallery:
   3. Intersecting channels
   4. Inclined mixer
 * The inclusion of 4 sections forces the two samples to mix both in the XY directions (sections 1 and 3) as well as in the Z direction (sections 2 and 4)
+
+<img src="/assets/img/mixer11.png" alt="zig zag" width="35%"/>
 * **Zig-zag channels** are one of the most popular passive mixing methods due to it being control-free and relatively simple to design and fabricate
+
+<img src="/assets/img/mixer12.png" alt="zig zag" width="35%"/>
 * The inclusion of **3D ridges** is intended to induce chaotic advection in the mixer, particularly in the Z-direction, by forcing flows with transverse components to fold fluid elements over the channel cross-section
+
+<img src="/assets/img/mixer13.png" alt="zig zag" width="35%"/>
 * **Intersecting channels** can be used to split, rearrange, and combine component streams to enhance mixing. The two species merge into a single large stream and flow along a main channel. The intersecting channels form connections between the parallel segments of the main channel, allowing fluid on one side of the main channel to interact with fluid on the other side of the channel.
+
+<img src="/assets/img/mixer14.png" alt="zig zag" width="35%"/>
 * Similar to the 3D ridges, the **inclined walls** in section 4 are designed to induce a chaotic mixing effect within the fluid stream. As the fluid traverses this section, it sways from side to side, resulting in a chaotic advection effect.
 
 ## Justification for Stereolithography
