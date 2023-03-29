@@ -12,30 +12,29 @@ gallery:
   - image_path: assets/img/pliers-v3-3.png
    
 ---
-[Link to Thingiverse page](https://www.thingiverse.com/thing:5886063)
 
 ## Background
 
 * Microfluidic mixing aims to achieve thorough and rapid mixing of multiple fluid samples on a microscale level
-    * The small size of the flow channels in these mixers increases the surface to volume ratio when compared to macro-scale mixers, making these devices useful in many applications
-    * These devices have a considerable impact on the fields of biomedical diagnostics and drug development as well as the food and chemical industries
-* Specific applications of microfluidic mixing include:
-    * Sample dilution
-    * Reagent homogenization
-    * Chemical or biological reactions
+  * The small size of the flow channels in these mixers increases the surface to volume ratio when compared to macro-scale mixers, making these devices useful in many applications
+  * These devices have a considerable impact on the fields of biomedical diagnostics and drug development as well as the food and chemical industries
+  * Specific applications of microfluidic mixing include:
+     * Sample dilution
+     * Reagent homogenization
+     * Chemical or biological reactions
 * However, the microchannels present a challenge due to the laminar flows caused by low Reynolds numbers in the channels
-    * For example, typical water-based microfluidic systems have Reynolds number on the order of 0.1
-    * Contributing factors include:
+  * For example, typical water-based microfluidic systems have Reynolds number on the order of 0.1
+  * Contributing factors include:
      * Small hydraulic diameter 
      * Low kinetic viscosity 
      * Low flow velocity of the solution(s)
 * Unlike larger macro-scale mixer devices, turbulent mixing does not occur in these low Reynolds number regimes. 
 * Flows in microfluidic devices are almost always laminar in nature, making thorough mixing a key challenge within microfluidics since these devices cannot take advantage of turbulent mixing.
 * As a result, microfluidic homogeneous mixers rely solely on diffusive mixing
-    * Diffusive mixing is an inherently slower process and requires a long channel to achieve sufficient mixing
-    * The aim of microfluidic mixing schemes is to enhance the mixing efficiency by speeding up the time required to achieve adequate mixing, and/or by shortening the channel length required
+  * Diffusive mixing is an inherently slower process and requires a long channel to achieve sufficient mixing
+  * The aim of microfluidic mixing schemes is to enhance the mixing efficiency by speeding up the time required to achieve adequate mixing, and/or by shortening the channel length required
 * There are two approaches to microfluidic mixing: active and passive mixers
-    * Active mixers: improve the mixing performance by applying external forces to the fluid flows to accelerate the diffusion. Active mixing schemes include:
+  * Active mixers: improve the mixing performance by applying external forces to the fluid flows to accelerate the diffusion. Active mixing schemes include:
      * Acoustic/Ultrasonic
      * Dielectrophoretic
      * Electrokinetic time-pulse
@@ -43,7 +42,7 @@ gallery:
      * Thermal actuation
      * Magneto-hydrodynamic flow
      * Electrokinetic instability
-    * Passive mixers: the microchannel configuration is designed to increase the contact area and/or the contact time of both samples. While no external energy or stimulus is required, passive schemes typically result in a lower mixing efficiency than active schemes. Passive mixing schemes include:
+  * Passive mixers: the microchannel configuration is designed to increase the contact area and/or the contact time of both samples. While no external energy or stimulus is required, passive schemes typically result in a lower mixing efficiency than active schemes. Passive mixing schemes include:
      * Lamination
      * Zig-zag channels
      * 3D serpentine structures
