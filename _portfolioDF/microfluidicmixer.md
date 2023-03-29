@@ -58,6 +58,8 @@ gallery:
   3. Intersecting channels
   4. Inclined mixer
 * The inclusion of 4 sections forces the two samples to mix both in the XY directions (sections 1 and 3) as well as in the Z direction (sections 2 and 4)
+* 2.0mm diameter posts were included at both inlets and the outlet to create an interface for connecting to the microfluidic tubing
+  * Connection posts were also included in between each mixing section to evaluate the intermediate mixing results of each mixing scheme
 
 <img src="/assets/img/mixer11.png" alt="zig zag" width="35%"/>
 * **Zig-zag channels** are one of the most popular passive mixing methods due to it being control-free and relatively simple to design and fabricate
