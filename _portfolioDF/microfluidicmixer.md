@@ -114,15 +114,15 @@ gallery:
 
 ## References
 
-"Guide to Microfluidics and Millifluidics, and Lab-on-a-Chip Manufacturing." _Formlabs_, https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/. Accessed 29 March 2023.
+"Guide to Microfluidics and Millifluidics, and Lab-on-a-Chip Manufacturing." _Formlabs_, [https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/](https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/). Accessed 29 March 2023.
 
-Hung, Chia -, et al. "Experimental Study on Microfluidic Mixing with Different Zigzag Angles." _NCBI_, 31 August 2019, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/. Accessed 29 March 2023.
+Hung, Chia -, et al. "Experimental Study on Microfluidic Mixing with Different Zigzag Angles." _NCBI_, 31 August 2019, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/). Accessed 29 March 2023.
 
-"Microfluidic Mixing: A Review - PMC." _NCBI_, 18 May 2011, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/. Accessed 29 March 2023.
+"Microfluidic Mixing: A Review - PMC." _NCBI_, 18 May 2011, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/). Accessed 29 March 2023.
 
-"An overview of microfluidic mixing application." _DORAS_, https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf. Accessed 29 March 2023.
+"An overview of microfluidic mixing application." _DORAS_, [https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf](https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf). Accessed 29 March 2023.
 
-Ward, Kevin. "Mixing in microfluidic devices and enhancement methods." _NCBI_, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/. Accessed 29 March 2023.
+Ward, Kevin. "Mixing in microfluidic devices and enhancement methods." _NCBI_, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/). Accessed 29 March 2023.
 
 
 {% include gallery caption="Microfluidic Mixer Gallery" %}
