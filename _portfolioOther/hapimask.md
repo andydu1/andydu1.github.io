@@ -3,7 +3,7 @@ layout: single
 title: "HapiMask"
 excerpt: "The smile-detecting smart mask"
 header:
-  image: /assets/img/syringe pump no bg.png
+  image: /assets/img/hapimask1.png
   teaser: /assets/img/hapimask.png
 gallery:
   - image_path: assets/img/syringepump2.JPG
@@ -17,7 +17,9 @@ gallery:
 
 ## Solution 
 
+![](/assets/img/hapimask2.jpg)
 
+![](/assets/img/hapimask3.png)
 
 ## Video
 
