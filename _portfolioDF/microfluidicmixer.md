@@ -61,16 +61,20 @@ gallery:
 * 2.0mm diameter posts were included at both inlets and the outlet to create an interface for connecting to the microfluidic tubing
   * Connection posts were also included in between each mixing section to evaluate the intermediate mixing results of each mixing scheme
 
-<img src="/assets/img/mixer11.png" alt="zig zag" width="35%"/>
+
+<img src="/assets/img/mixer11.png" alt="zig zag" width="75%"/>
 * **Zig-zag channels** are one of the most popular passive mixing methods due to it being control-free and relatively simple to design and fabricate
 
-<img src="/assets/img/mixer12.png" alt="zig zag" width="35%"/>
+
+<img src="/assets/img/mixer12.png" alt="zig zag" width="75%"/>
 * The inclusion of **3D ridges** is intended to induce chaotic advection in the mixer, particularly in the Z-direction, by forcing flows with transverse components to fold fluid elements over the channel cross-section
 
-<img src="/assets/img/mixer13.png" alt="zig zag" width="35%"/>
+
+<img src="/assets/img/mixer13.png" alt="zig zag" width="75%"/>
 * **Intersecting channels** can be used to split, rearrange, and combine component streams to enhance mixing. The two species merge into a single large stream and flow along a main channel. The intersecting channels form connections between the parallel segments of the main channel, allowing fluid on one side of the main channel to interact with fluid on the other side of the channel.
 
-<img src="/assets/img/mixer14.png" alt="zig zag" width="35%"/>
+
+<img src="/assets/img/mixer14.png" alt="zig zag" width="75%"/>
 * Similar to the 3D ridges, the **inclined walls** in section 4 are designed to induce a chaotic mixing effect within the fluid stream. As the fluid traverses this section, it sways from side to side, resulting in a chaotic advection effect.
 * Pertinent dimensions of the design include:
   * Total length:  80.00 mm
@@ -82,6 +86,7 @@ gallery:
   * Channel width: 2.00 mm
   * Microfluidic connection post diameter: 2.00 mm
   * Section length: 16.25 mm
+
  ![mixer dimensions 1](/assets/img/mixer15.png)
  ![mixer dimensions 2](/assets/img/mixer16.png)
 
