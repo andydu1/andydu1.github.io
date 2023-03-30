@@ -72,6 +72,19 @@ gallery:
 
 <img src="/assets/img/mixer14.png" alt="zig zag" width="35%"/>
 * Similar to the 3D ridges, the **inclined walls** in section 4 are designed to induce a chaotic mixing effect within the fluid stream. As the fluid traverses this section, it sways from side to side, resulting in a chaotic advection effect.
+* Pertinent dimensions of the design include:
+  * Total length:  80.00 mm
+  * Total width: 30.00 mm
+  * Outer height: 5.50 mm
+  * Inner height: 4.50 mm
+  * Wall thickness: 2.50 mm
+  * Channel height: 2.50 mm
+  * Channel width: 2.00 mm
+  * Microfluidic connection post diameter: 2.00 mm
+  * Section length: 16.25 mm
+ ![mixer dimensions 1](/assets/img/mixer15.png)
+ ![mixer dimensions 2](/assets/img/mixer16.png)
+
 
 ## Justification for Stereolithography
 * A **Form 3 stereolithography (SLA) printer** was used to 3D print the negative mold of the microfluidic mixer
@@ -93,6 +106,18 @@ gallery:
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4381a449e85df15f9a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## References
+
+"Guide to Microfluidics and Millifluidics, and Lab-on-a-Chip Manufacturing." _Formlabs_, https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/. Accessed 29 March 2023.
+
+Hung, Chia -, et al. "Experimental Study on Microfluidic Mixing with Different Zigzag Angles." _NCBI_, 31 August 2019, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6780503/. Accessed 29 March 2023.
+
+"Microfluidic Mixing: A Review - PMC." _NCBI_, 18 May 2011, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116190/. Accessed 29 March 2023.
+
+"An overview of microfluidic mixing application." _DORAS_, https://doras.dcu.ie/20464/1/_Naher_AMR_2010_Overview_of_microfluidic_mixing.pdf. Accessed 29 March 2023.
+
+Ward, Kevin. "Mixing in microfluidic devices and enhancement methods." _NCBI_, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/. Accessed 29 March 2023.
 
 
 {% include gallery caption="Microfluidic Mixer Gallery" %}
