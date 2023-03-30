@@ -8,6 +8,8 @@ header:
 
    
 ---
+#### Summer 2020
+
 ## Problem
 
 * After the start of the COVID-19 pandemic, face masks became a necessity for controlling the spread of viral particles and maintaining public safety. 
@@ -27,8 +29,9 @@ header:
 
 ## Team
 **Andy Du**, Vanderbilt School of Engineering, Mechanical Engineering
-**Kaelon McNeece**, Vanderbilt School of Engineering, Mechanical Engineering
-**Seok Hee Hong**, Vanderbilt School of Engineering, Computer Science
-**Minna Apostolova**, Vanderbilt College of Arts and Sciences, Biochemistry
 
-{% include gallery caption="HapiMask Gallery" %}
+**Kaelon McNeece**, Vanderbilt School of Engineering, Mechanical Engineering
+
+**Seok Hee Hong**, Vanderbilt School of Engineering, Computer Science
+
+**Minna Apostolova**, Vanderbilt College of Arts and Sciences, Biochemistry
