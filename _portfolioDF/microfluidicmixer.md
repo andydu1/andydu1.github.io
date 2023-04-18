@@ -3,12 +3,12 @@ layout: single
 title: "Microfluidic Mixer"
 excerpt: "Homogeneous microfluidic mixer created with stereolithography (SLA) 3D printing."
 header:
-  image: /assets/img/mixer3.JPG
-  teaser: /assets/img/mixer10.JPG
+  image: /assets/img/mixer21.JPG
+  teaser: /assets/img/mixer23.JPG
 gallery:
-  - image_path: assets/img/mixer5.png
-  - image_path: assets/img/mixer6.png
-  - image_path: assets/img/mixer7.png
+  - image_path: assets/img/mixer19.JPG
+  - image_path: assets/img/mixer20.JPG
+  - image_path: assets/img/mixer22.JPG
    
 ---
 
