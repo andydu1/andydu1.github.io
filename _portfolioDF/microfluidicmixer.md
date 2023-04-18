@@ -49,9 +49,18 @@ gallery:
      * Twisted channels
      * Surface chemistry
 
-## Design Description
-* A negative mold of the microfluidic mixer was created, cast with polydimethylsiloxane (PDMS), and bonded to a glass slide
-  * Insert instructions here
+## Design
+### Microdevice Fabrication
+* A **Form 3 stereolithography (SLA) printer** was used to 3D print the negative mold of the microfluidic mixer
+  * The Form 3 provides minimum layer resolution of 25 um along the z-axis and 80 um resolution along the x- and y-axes
+  * Formlabs High Temp resin was used to print the mold
+* Completed prints were washed with isopropyl alcohol until visible clean and cured with UV light for 60 minutes at room temperature
+* Cured prints were then transferred to a Labcoter PDS 2010 parylene deposition machine (Specialty Coating Systems) and coated with 2 grams of parylene-C
+* Polydimethyl siloxane (PDMS, Sylgard 184; Ellsworth Adhesive Company) elastomer and curing agent were mixed at a weight ratio of 10:1 and poured onto the print
+* The mixture was degassed in the mold for 30 minutes in a vacuum chamber and cured at 80C for 3 hours
+* After demolding, the PDMS device was bonded to [https://www.fishersci.com/shop/products/fisherbrand-economy-plain-glass-microscope-slides/12550A3](common glass microscope coverslips) using a PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma) and sterilized in an autoclave prior to use
+
+### Description
 * The device has four sections, each using a different passive mixing scheme:
   1. Zig-zag channels
   2. Three-dimensional ridges
@@ -92,9 +101,8 @@ gallery:
 
 
 ## Justification for Stereolithography
-* A **Form 3 stereolithography (SLA) printer** was used to 3D print the negative mold of the microfluidic mixer
-  * SLA falls under the category of _vat photopolymerization (VPP)_, which constructs a model layer by layer out of a vat of liquid photopolymer resin. 
-    * An ultraviolet (UV) laser is used to cure the resin on each layer, and a platform moves the object being made downwards after each new layer is cured.
+* SLA falls under the category of _vat photopolymerization (VPP)_, which constructs a model layer by layer out of a vat of liquid photopolymer resin. 
+  * An ultraviolet (UV) laser is used to cure the resin on each layer, and a platform moves the object being made downwards after each new layer is cured.
   * VPP provides **extremely high-resolution** printing capabilities, with the minimum feature size being determined by the laser spot size (in this case, 85 um)
 * Other fabrication techniques can also be used to create microfluidic devices, such as **photolithography**, a traditional technique that was first used to create microfluidic devices
   * However, microfluidics fabricated with photolithography have a _much higher cost_ and can also _take much longer to fabricate_
