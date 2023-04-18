@@ -58,7 +58,7 @@ gallery:
 * Cured prints were then transferred to a Labcoter PDS 2010 parylene deposition machine (Specialty Coating Systems) and coated with 2 grams of parylene-C
 * Polydimethyl siloxane (PDMS, Sylgard 184; Ellsworth Adhesive Company) elastomer and curing agent were mixed at a weight ratio of 10:1 and poured onto the print
 * The mixture was degassed in the mold for 30 minutes in a vacuum chamber and cured at 80C for 3 hours
-* After demolding, the PDMS device was bonded to [https://www.fishersci.com/shop/products/fisherbrand-economy-plain-glass-microscope-slides/12550A3](common glass microscope coverslips) using a PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma) and sterilized in an autoclave prior to use
+* After demolding, the PDMS device was bonded to [common glass microscope coverslips](https://www.fishersci.com/shop/products/fisherbrand-economy-plain-glass-microscope-slides/12550A3) using a PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma) and sterilized in an autoclave prior to use
 
 ### Description
 * The device has four sections, each using a different passive mixing scheme:
