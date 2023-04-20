@@ -9,12 +9,12 @@ gallery:
   - image_path: assets/img/mixer19.JPG
   - image_path: assets/img/mixer20.JPG
   - image_path: assets/img/mixer22.JPG
-   
 ---
 
 ## Research and Discussion
+  
+  
   <details><summary>Introduction</summary>
-  <br>
 
   #### Large Format 3D Printing (LF3DP)
   Large format 3D printing (LF3DP) refers to the 3D printing of objects that exceed the size limitations of traditional desktop 3D printers. These printers are capable of generating parts that are several feet in length, width, and height, allowing them to print things like store displays, furniture, signage, set pieces, art exhibits, and more. For industrial manufacturing, LF3DP can be a cost-effective alternative to machining since it gives users the ability to produce complex geometries that would typically require multiple parts and/or assembly. LF3DP can be ideal for printing molds, tooling, patterns, and even end-use parts. These 3D printed parts are often cheaper than similar parts made with traditional manufacturing methods and also often provide shorter lead times than ordering parts. 
