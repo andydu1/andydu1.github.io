@@ -89,7 +89,7 @@ _Preserved geometry for the generative study._
 
 -   To setup the generative design for the podium, several areas were designated as preserved geometry
 
-  -   These are bodies that are incorporated into the final design shape but are not manipulated
+    -   These are bodies that are incorporated into the final design shape but are not manipulated
 
 -   For the podium, this included the top, shelf, base, and logo
 
@@ -112,9 +112,10 @@ _Obstacle geometry for the generative study._
 _Load cases applied to the podium._
 -   A fixed constraint was placed on the bottom side of the podium base where the podium would meet the floor
 
-  -   This constrained the podium in the x, y, and z directions from the base
+    -   This constrained the podium in the x, y, and z directions from the base
 
 -   Three load cases were considered in the generative design:
+
 | Load Case |          Description          |   Magnitude  |
 |:---------:|:-----------------------------:|:------------:|
 |     1     |  Vertical normal load on top  | 250 lb-force |
