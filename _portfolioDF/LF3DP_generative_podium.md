@@ -19,7 +19,7 @@ gallery:
   <p>Large format 3D printing (LF3DP) refers to the 3D printing of objects that exceed the size limitations of traditional desktop 3D printers. These printers are capable of generating parts that are several feet in length, width, and height, allowing them to print things like store displays, furniture, signage, set pieces, art exhibits, and more. For industrial manufacturing, LF3DP can be a cost-effective alternative to machining since it gives users the ability to produce complex geometries that would typically require multiple parts and/or assembly. LF3DP can be ideal for printing molds, tooling, patterns, and even end-use parts. These 3D printed parts are often cheaper than similar parts made with traditional manufacturing methods and also often provide shorter lead times than ordering parts. </p>
 
 
-  <p?LF3DP is commonly used in the aerospace, architecture, and automotive industries, as well as many more manufacturing fields. For example, the first LF3DPs originated at the Oak Ridge National Labs research facility with the Big Area Additive Machine (BAAM), the first version of which launched in 2014. Notably, this device was used to 3D print an entire car in 2017 and is most commonly used to create large molds for objects like airplane wings, automotives, and buildings. These molds would traditionally take months to fabricate with giant wood molds, while BAAM allowed for a mold to be printed in days. The latest version of BAAM is capable of depositing 36 kg/hr of material and has a print area of up to 13 ft long, 6.5 ft wide, and 8 ft tall. ORNL has also incorporated two hoppers into the extruder in BAAM, enable multimaterial printing. While not all LF3DP solutions are as advanced as BAAM, the benefits they can offer are comparable.</p>
+  <p>LF3DP is commonly used in the aerospace, architecture, and automotive industries, as well as many more manufacturing fields. For example, the first LF3DPs originated at the Oak Ridge National Labs research facility with the Big Area Additive Machine (BAAM), the first version of which launched in 2014. Notably, this device was used to 3D print an entire car in 2017 and is most commonly used to create large molds for objects like airplane wings, automotives, and buildings. These molds would traditionally take months to fabricate with giant wood molds, while BAAM allowed for a mold to be printed in days. The latest version of BAAM is capable of depositing 36 kg/hr of material and has a print area of up to 13 ft long, 6.5 ft wide, and 8 ft tall. ORNL has also incorporated two hoppers into the extruder in BAAM, enable multimaterial printing. While not all LF3DP solutions are as advanced as BAAM, the benefits they can offer are comparable.</p>
 
 
   <h4> Generative Design </h4>
@@ -54,29 +54,19 @@ gallery:
   </details>
 
   <details><summary>References</summary>
-  <md>
-  -   <https://xponentialworks.com/what-is-large-format-3d-printing-and-who-needs-it/>
-
-  -   <https://all3dp.com/1/large-format-3d-printer-large-scale/>
-
-  -   <https://all3dp.com/1/large-scale-3d-printing-the-ultimate-guide/>
-
-  -   <https://www.engineering.com/story/how-big-area-additive-manufacturing-is-enabling-automotive-microfactories>
-
-  -   <https://www.autodesk.com/solutions/generative-design>
-
-  -   <https://aerospace.csis.org/data/space-launch-to-low-earth-orbit-how-much-does-it-cost/> 
-
-  -   <https://www.nasa.gov/centers/marshall/news/releases/2020/nasa-looks-to-advance-3d-printing-construction-systems-for-the-moon.html>
-
-  -   <https://www.cnet.com/pictures/this-3d-printed-mars-habitat-could-be-your-new-home-in-space-marsha-ai-spacefactory/10/>
-
-  -   <https://www.relativityspace.com/home>
-
-  -   <https://spectrum.ieee.org/3d-printed-rocket-relativity-spacex>
-
-  -   <https://www.freethink.com/space/building-on-the-moon#:~:text=NASA%20has%20awarded%20high%2Dtech,on%20the%20moon%20and%20Mars>
-  </md>
+  <ul>
+  <li><a href="https://xponentialworks.com/what-is-large-format-3d-printing-and-who-needs-it/">https://xponentialworks.com/what-is-large-format-3d-printing-and-who-needs-it/</a></li>
+  <li><a href="https://all3dp.com/1/large-format-3d-printer-large-scale/">https://all3dp.com/1/large-format-3d-printer-large-scale/</a></li>
+  <li><a href="https://all3dp.com/1/large-scale-3d-printing-the-ultimate-guide/">https://all3dp.com/1/large-scale-3d-printing-the-ultimate-guide/</a></li>
+  <li><a href="https://www.engineering.com/story/how-big-area-additive-manufacturing-is-enabling-automotive-microfactories">https://www.engineering.com/story/how-big-area-additive-manufacturing-is-enabling-automotive-microfactories</a></li>
+  <li><a href="https://www.autodesk.com/solutions/generative-design">https://www.autodesk.com/solutions/generative-design</a></li>
+  <li><a href="https://aerospace.csis.org/data/space-launch-to-low-earth-orbit-how-much-does-it-cost/">https://aerospace.csis.org/data/space-launch-to-low-earth-orbit-how-much-does-it-cost/</a></li>
+  <li><a href="https://www.nasa.gov/centers/marshall/news/releases/2020/nasa-looks-to-advance-3d-printing-construction-systems-for-the-moon.html">https://www.nasa.gov/centers/marshall/news/releases/2020/nasa-looks-to-advance-3d-printing-construction-systems-for-the-moon.html</a></li>
+  <li><a href="https://www.cnet.com/pictures/this-3d-printed-mars-habitat-could-be-your-new-home-in-space-marsha-ai-spacefactory/10/">https://www.cnet.com/pictures/this-3d-printed-mars-habitat-could-be-your-new-home-in-space-marsha-ai-spacefactory/10/</a></li>
+  <li><a href="https://www.relativityspace.com/home">https://www.relativityspace.com/home</a></li>
+  <li><a href="https://spectrum.ieee.org/3d-printed-rocket-relativity-spacex">https://spectrum.ieee.org/3d-printed-rocket-relativity-spacex</a></li>
+  <li><a href="https://www.freethink.com/space/building-on-the-moon#:~:text=NASA%20has%20awarded%20high%2Dtech,on%20the%20moon%20and%20Mars">https://www.freethink.com/space/building-on-the-moon#:~:text=NASA%20has%20awarded%20high%2Dtech,on%20the%20moon%20and%20Mars</a></li>
+  </ul>
   </details>
 
 ## Generative Design Setup
