@@ -89,7 +89,7 @@ _Preserved geometry for the generative study._
 
 -   To setup the generative design for the podium, several areas were designated as preserved geometry
 
--   These are bodies that are incorporated into the final design shape but are not manipulated
+  -   These are bodies that are incorporated into the final design shape but are not manipulated
 
 -   For the podium, this included the top, shelf, base, and logo
 
@@ -99,7 +99,7 @@ _Obstacle geometry for the generative study._
 
 -   Additionally, several areas were designated as obstacles where no material should be placed in the general design
 
--   "Empty space" in the final generated design
+  -   "Empty space" in the final generated design
 
 -   The space above the shelf was made into an obstacle to ensure that there would be space to place items on the shelf
 
@@ -112,14 +112,14 @@ _Obstacle geometry for the generative study._
 _Load cases applied to the podium._
 -   A fixed constraint was placed on the bottom side of the podium base where the podium would meet the floor
 
--   This constrained the podium in the x, y, and z directions from the base
+  -   This constrained the podium in the x, y, and z directions from the base
 
 -   Three load cases were considered in the generative design:
-| Load Case      | Description | Magnitude     |
-| :---:        |    :----:   |          :---: |
-| 1      | Vertical normal load on top | 250 lb-force   |
-| 2      | Vertical normal load on shelf | 100 lb-force   |
-| 3      | Horizontal shear load on top | 100 lb-force   |
+| Load Case |          Description          |   Magnitude  |
+|:---------:|:-----------------------------:|:------------:|
+|     1     |  Vertical normal load on top  | 250 lb-force |
+|     2     | Vertical normal load on shelf | 100 lb-force |
+|     3     |  Horizontal shear load on top | 100 lb-force |
 
 ### Design Criteria
 
@@ -134,7 +134,7 @@ _Load cases applied to the podium._
 ### Post-Processing and Validation
 ![](/assets/img/podium23.png)
 ![](/assets/img/podium24.png)
-_Simulation results for A) von Mises stress, and B) maximum displacement for load cases 1-3._
+_Simulation results for von Mises stress (top) and maximum displacement (bottom) for load cases 1-3._
 -   Following the generative design, the design was modified in the Form workspace to ensure that all overhangs were greater than 45 degrees for printability
 
 -   Simulations were performed on the modified design to ensure that the altered bodies did not compromise the structural integrity of the podium
