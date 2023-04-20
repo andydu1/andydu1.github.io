@@ -136,6 +136,7 @@ _Load cases applied to the podium._
 ![](/assets/img/podium23.png)
 ![](/assets/img/podium24.png)
 _Simulation results for von Mises stress (top) and maximum displacement (bottom) for load cases 1-3._
+
 -   Following the generative design, the design was modified in the Form workspace to ensure that all overhangs were greater than 45 degrees for printability
 
 -   Simulations were performed on the modified design to ensure that the altered bodies did not compromise the structural integrity of the podium
