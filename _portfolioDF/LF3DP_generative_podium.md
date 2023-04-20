@@ -93,12 +93,12 @@ If companies like Relativity Space are able to continue developing their 3D prin
 
 </details>
 
+## Generative Design Setup
+
+  
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec75ed1f7991e5264?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## References
-
-"Guide to Microfluidics and Millifluidics, and Lab-on-a-Chip Manufacturing." _Formlabs_, [https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/](https://formlabs.com/blog/microfluidics-millifluidics-lab-on-a-chip-manufacturing/). Accessed 29 March 2023.
 
 
 {% include gallery caption="Generative Design Large-Format 3D Printed Podium Gallery" %}
