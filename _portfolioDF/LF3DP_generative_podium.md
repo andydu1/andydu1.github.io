@@ -3,8 +3,8 @@ layout: single
 title: "Large Format 3D Printed Podium"
 excerpt: "4-ft tall podium modeled by AI-driven generative design and fabricated on a large format 3D printer."
 header:
-  image: /assets/img/podium1.png
-  teaser: /assets/img/podium2.png
+  image: /assets/img/podium25.JPG
+  teaser: /assets/img/podium33.JPG
 gallery:
   - image_path: assets/img/podium3.png
   - image_path: assets/img/podium4.png
@@ -144,6 +144,8 @@ _Simulation results for von Mises stress (top) and maximum displacement (bottom)
 -   It was found that the podium was able to comfortably withstand all the load cases presented, with a minimum safety factor of 5.435
   
 ## Scale Model
+![](/assets/img/podium34.png)
+
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec75ed1f7991e5264?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
