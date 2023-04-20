@@ -15,10 +15,8 @@ gallery:
 <details>
 <summary><h2>Research and Discussion</h2></summary>
 
-<details>
-  
-<summary><h3>Introduction</h3></summary>
-    
+<details><summary><h3>Introduction</h3></summary>
+<br>
 #### Large Format 3D Printing (LF3DP)
 Large format 3D printing (LF3DP) refers to the 3D printing of objects that exceed the size limitations of traditional desktop 3D printers. These printers are capable of generating parts that are several feet in length, width, and height, allowing them to print things like store displays, furniture, signage, set pieces, art exhibits, and more. For industrial manufacturing, LF3DP can be a cost-effective alternative to machining since it gives users the ability to produce complex geometries that would typically require multiple parts and/or assembly. LF3DP can be ideal for printing molds, tooling, patterns, and even end-use parts. These 3D printed parts are often cheaper than similar parts made with traditional manufacturing methods and also often provide shorter lead times than ordering parts. 
 
@@ -34,10 +32,8 @@ A key drawback of generative design that can be addressed by LF3DP is the fact t
   
 </details>
   
-<details>
-  
-<summary><h3>Planetary-Surface Construction</h3></summary>
-    
+<details><summary><h3>Planetary-Surface Construction</h3></summary>
+<br>
 A potential application of LF3DP and GD is 3D printing habitats for deep space exploration, such as for the surface of the Moon or Mars. A key issue with establishing a permanent crewed presence on the Moon or Mars is the ability to bring cargo to the planetary surface and the limitations on mass due to cost. Depending on launch vehicle, the cost to launch a kilogram of cargo to low earth orbit (LEO) is estimated to be around $10,000/kg. Even with SpaceX’s recent advances with their reusable rockets, the estimated cargo cost for a Falcon 9 is still around $2,500/kg. Considering these cost estimates are only for LEO, the costs of launching cargo to the Moon or Mars will be even higher. These constrains make it impractical to launch large, pre-fabricated habitats to another planetary surface, as the costs to send the construction materials needed to build a significant moon or Mars base would be “astronomical” (pun intended). Any habitat that is included with launch would also be limited in size and volume, which places further limitations on astronauts living in these habitats.
 
 A proposed solution to this problem has been to use LF3DP to additively manufacture habitats directly on the lunar or Martian surface using a lunar or Martian regolith-based filament. The use of “locally sourced” materials means that less material has to be transported from Earth, minimizing costs. This also allows for more design flexibility with larger structures and more unique geometries. In addition to habitats, LF3DP with in situ materials can also be used to develop other infrastructure necessary for a human settlement. Launch pads, landing strips, roads, and more can all be developed with 3D printing.
@@ -46,23 +42,17 @@ The importance of mass reduction is a key area where the intersection of LF3DP a
 
 </details>
 
-<details>
-
-<summary><h3>Innovations</h3></summary>
-
+<details><summary><h3>Innovations</h3></summary>
+<br>
 Several challenges still must be addressed before LF3DP on planetary surfaces becomes feasible. Further development needs to be made on the material composition of the deposition material so that it can be composed of all or nearly all locally sourced materials directly from the planetary surface. Companies like ICON are currently working towards this goal with their Olympus 3D printer, specifically designed to print on the moon and Mars. This printer uses a laser-based system to transform lunar dust into printing material. There are also challenges with deposition 3D printing in a low gravity environment. Traditional FFF printing on Earth relies somewhat on gravity to help with layer adhesion, so adjustments may need to be made when printing in a microgravity environment. In addition to layer adhesion being important for structural integrity, in space any structural habitat printed with LF3DP must also be airtight and able to maintain its own internal atmosphere for humans to live in. Any gaps or microcracks in the structure could be lead to devastating results.
 
 In addition to building infrastructure on planetary surfaces, LF3DP and generative design can also be used for building more complex structures, including rockets. Relativity Space is a start-up company that is working towards developing the technology necessary to 3D print an entire reusable rocket. Using the world’s largest metal 3D printers, they have recently launched their Terran 1 rocket, of which over 80% is 3D printed, and are in the process of creating the Terran R rocket that will also consist of mostly 3D printed custom parts. Their eventual goal is to create a rocket consisting of entirely 3D printed parts. These rockets include many nature-inspired designs that leverage the capabilities of LF3DP and generative design to completely change what a rocket can look like, with things like dragonfly-inspired drag fins and seashell-styled tank bases. 
 
 If companies like Relativity Space are able to continue developing their 3D printing capabilities, it is possible that one day there could be a rocket 3D printing factory on Mars. This would enable rockets to be made directly on the Martian surface using materials found there, which could provide astronauts with a return vehicle. Otherwise, there would be many challenges with a single spacecraft getting astronauts to and from Mars. Currently, most spacecraft are launched in a multi-stage launch vehicle, with the first stage being expended primarily to get the spacecraft out of Earth’s gravity. The smaller second stage can then travel to its final destination, whether it be the moon or Mars. If a spacecraft then wanted to return from Mars to Earth, it is likely that a separate return launch vehicle would be needed on the Martian surface. The ability to LF3DP a rocket directly on a planetary surface would be a significant milestone for humanity’s quest to explore the cosmos.
-
-
 </details>
 
-<details>
-
-<summary><h3>References</h3></summary>
-  
+<details><summary><h3>References</h3></summary>
+<br>
 -   <https://xponentialworks.com/what-is-large-format-3d-printing-and-who-needs-it/>
 
 -   <https://all3dp.com/1/large-format-3d-printer-large-scale/>
