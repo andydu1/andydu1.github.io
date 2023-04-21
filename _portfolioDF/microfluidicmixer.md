@@ -6,7 +6,7 @@ header:
   image: /assets/img/mixer21.JPG
   teaser: /assets/img/mixer23.JPG
 gallery:
-  - image_path: assets/img/mixer19.JPG
+  - image_path: assets/img/mixer17.JPG
   - image_path: assets/img/mixer20.JPG
   - image_path: assets/img/mixer22.JPG
    
@@ -61,6 +61,9 @@ gallery:
 * After demolding, the PDMS device was bonded to [common glass microscope coverslips](https://www.fishersci.com/shop/products/fisherbrand-economy-plain-glass-microscope-slides/12550A3) using a PlasmaFlo PDC-FMG plasma cleaner (Harrick Plasma) and sterilized in an autoclave prior to use
 
 ### Description
+
+![](/assets/img/mixer19.JPG)
+
 * The device has four sections, each using a different passive mixing scheme:
   1. Zig-zag channels
   2. Three-dimensional ridges
