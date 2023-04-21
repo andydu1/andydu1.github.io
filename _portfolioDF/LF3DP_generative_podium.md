@@ -144,7 +144,7 @@ _Simulation results for von Mises stress (top) and maximum displacement (bottom)
 -   It was found that the podium was able to comfortably withstand all the load cases presented, with a minimum safety factor of 5.435
   
 ## Scale Model
-![](/assets/img/podium29.png)
+![](/assets/img/podium29.JPG)
 ![](/assets/img/podium34.png)
 
 To verify that the generative design model had no overhangs less than 45 degrees and therefore was able to be printed without supports, a scale model was printed using a MakerGear M3-ID printer. To accurately scale the nozzle diameters between the MakerGear (nozzle diameter of 0.35 mm) and the large-format 3D printer (nozzle diameter of 3 mm), the scale model was printed at 11.67% of the actual model size.
