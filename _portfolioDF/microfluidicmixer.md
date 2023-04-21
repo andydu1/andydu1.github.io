@@ -114,7 +114,7 @@ gallery:
     * **This is particularly beneficial for a homogeneous mixer**, necessitating the use of SLA printing
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mmE74WHk6mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkyPoLz9E3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## CAD Model
