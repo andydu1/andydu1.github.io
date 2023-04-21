@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Large Format 3D Printed Podium"
-excerpt: "4-ft tall podium modeled by AI-driven generative design and fabricated on a large format 3D printer."
+title: "Generatively Designed 3D Printed Podium"
+excerpt: "4-ft tall podium modeled by AI-driven generative design for fabrication on a large format 3D printer."
 header:
   image: /assets/img/podium25.JPG
   teaser: /assets/img/podium27.JPG
