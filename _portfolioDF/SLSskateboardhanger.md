@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Skateboard Truck Hanger"
-excerpt: "Generatively-designed skateboard truck 3D printed with a Fuse 1 Selective Laser Sintering (SLS) powder printer."
+excerpt: "Generatively-designed skateboard truck 3D printed with Selective Laser Sintering (SLS)."
 header:
   image: /assets/img/skateboard2.jpg
   teaser: /assets/img/skateboard21.jpg
@@ -17,15 +17,11 @@ gallery:
 
 Generative design was used to model a lightweight skateboard truck hanger that was printed on a Fuse 1 SLS powder printer. Generative design outcomes were explored for two different materials: Nylon 12 and AlSi10Mg, a commonly printed aluminum alloy.
 
-![](/assets/img/skateboard18.png)
-![](/assets/img/skateboard19.png)
-![](/assets/img/skateboard20.png)
-Generated design for AlSi10Mg
+![](/assets/img/skateboard29.png)
+_Generated design for AlSi10Mg_
 
-![](/assets/img/skateboard22.png)
-![](/assets/img/skateboard23.png)
-![](/assets/img/skateboard24.png)
-Generated design for Nylon 12
+![](/assets/img/skateboard30.png)
+_Generated design for Nylon 12_
 
 ## CAD Model
 ### Aluminum Model
@@ -85,21 +81,21 @@ _Original Paris V2 180MM skateboard truck._
 ![](/assets/img/skateboard13.jpg)
 _Preserved geometry for the generative study._
 
--   To setup the generative design for the skateboard, several areas were designated as preserved geometry
-    -   These are bodies that are incorporated into the final design shape but are not manipulated
--   This included the axle and mounting locations for the kingpin and pivot cup
+* To setup the generative design for the skateboard, several areas were designated as preserved geometry
+  * These are bodies that are incorporated into the final design shape but are not manipulated
+* This included the axle and mounting locations for the kingpin and pivot cup
 
 ### Obstacle Geometry
 ![](/assets/img/skateboard14.jpg)
 ![](/assets/img/skateboard15.jpg)
 _Obstacle geometry for the generative study._
 
--   Additionally, several areas were designated as obstacles where no material should be placed in the general design
-  -   "Empty space" in the final generated design
--   To fit the axle (diameter = 8 mm), an 8.1 mm diameter obstacle was created through the axle geometry as a cutout
--   Obstacles were created at each end of the axle to ensure plenty of clearance for 2 in diameter wheels
--   An obstacle was also created around the axle to ensure enough clearance between the hanger and the ground for the wheel to touch and spin
--   Since the skateboard wheels used 608ZZ bearings, obstacles were created to constrain the part of the hanger touching the wheel/bearing to be no larger than 17 mm in diameter
+* Additionally, several areas were designated as obstacles where no material should be placed in the general design
+  * "Empty space" in the final generated design
+* To fit the axle (diameter = 8 mm), an 8.1 mm diameter obstacle was created through the axle geometry as a cutout
+* Obstacles were created at each end of the axle to ensure plenty of clearance for 2 in diameter wheels
+* An obstacle was also created around the axle to ensure enough clearance between the hanger and the ground for the wheel to touch and spin
+* Since the skateboard wheels used 608ZZ bearings, obstacles were created to constrain the part of the hanger touching the wheel/bearing to be no larger than 17 mm in diameter
 
 ### Starting Geometry
 ![](/assets/img/skateboard16.jpg)
@@ -111,14 +107,14 @@ _Starting geometry for the generative study._
 
 
 ### Loads and Constraints
-![](/assets/img/skateboard25.jpg)
-![](/assets/img/skateboard26.jpg)
-![](/assets/img/skateboard27.jpg)
+![](/assets/img/skateboard25.png)
+![](/assets/img/skateboard26.png)
+![](/assets/img/skateboard27.png)
 _Load cases applied to the podium._
 
--   A fixed constraint was placed on the ball-shaped connection to the pivot cup
-    -   This constrained the hanger in the x, y, and z directions 
--   Three load cases were considered in the generative design. Different loads were considered for the Nylon 12 material than the AlSi10Mg material in order to achieve convergence on the generative model
+* A fixed constraint was placed on the ball-shaped connection to the pivot cup
+    * This constrained the hanger in the x, y, and z directions 
+* Three load cases were considered in the generative design. Different loads were considered for the Nylon 12 material than the AlSi10Mg material in order to achieve convergence on the generative model
 
 | **Load Case** |       **Description**      |         **Magnitude for AlSi10Mg**         |          **Magnitude for Nylon 12**          |
 |:-------------:|:--------------------------:|:------------------------------------------:|:-----------------------------------------:|
