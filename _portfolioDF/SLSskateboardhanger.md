@@ -97,8 +97,10 @@ _Simulation results for von Mises stress (top) and maximum displacement (bottom)
 To verify that the generative design model had no overhangs less than 45 degrees and therefore was able to be printed without supports, a scale model was printed using a MakerGear M3-ID printer. To accurately scale the nozzle diameters between the MakerGear (nozzle diameter of 0.35 mm) and the large-format 3D printer (nozzle diameter of 3 mm), the scale model was printed at 11.67% of the actual model size.
 
 ## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec75ed1f7991e5264?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+### Aluminum Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7b332c75c2413f22?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
+### Nylon Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1f699acb374c7209?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="SLS Skateboard Truck Hanger Gallery" %}
