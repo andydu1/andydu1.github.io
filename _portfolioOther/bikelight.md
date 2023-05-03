@@ -3,8 +3,8 @@ layout: single
 title: "BikeLight"
 excerpt: "Automated bike signaling light system."
 header:
-  image: /assets/img/bikelight.png
-  teaser: /assets/img/bikelight.png
+  image: /assets/img/bikelight6.JPG
+  teaser: /assets/img/bikelight12.JPG
 
    
 ---
@@ -18,12 +18,78 @@ header:
 ## Solution 
 * The solution I developed was the BikeLight: an automated LED signaling system for bikers that includes a hand-mounted turn signal component and a brake light component on the rear of the bike. 
 * For the hand-mounted component, an accelerometer senses the position of the bicyclist’s hand and the BikeLight displays an arrow in the direction the bike is going to turn based on traditional turning hand signals. 
+
+![](/assets/img/bikelight1.JPG)
+
 * For the rear bike-mounted component, the rear brake light blinks when the bicycle is slowing down and emits light continuously when the bike is fully stopped. 
 
-![](/assets/img/hapimask2.jpg)
+![](/assets/img/bikelight8.JPG)
 
 ## Video
 <iframe width="315" height="560" src="https://www.youtube.com/embed/FSqMuTuwwTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## System Components, Integration, and Construction
+### Hand-Mounted Turn Signal
+* The sensor for the hand-mounted component was an ADXL335 3-axis accelerometer mounted to the back of the hand. 
+* This accelerometer reads hand position based on 3 analog values sent to the microcontroller in the form of x, y, and z acceleration values. 
+  * Based on these 3 signals, thresholds were set that correspond to various hand positions.
+* As seen below in Figure 1, for each hand position, one accelerometer signal was on one side of the threshold while the other two signals were on the opposite side.
+
+![](/assets/img/bikelight4.png)
+_Figure 1. Serial plot of accelerometer signals with threshold values and hand signals visualized._
+
+* Once the exact hand position was determined with the thresholds and accelerometer signals, the LED matrix and ring outputs were then animated. 
+* An Adafruit NeoPixel NeoMatrix and Ring were used, both of which are compatible with the Adafruit_NeoPixel.h Arduino library. 
+* The Arduino called a function that corresponded to the hand position case (leftArrow() or rightArrow()), and the LEDs were animated in the correct arrangement, seen below in Figure 2. 
+* The LED matrix provided signals for drivers and pedestrians located behind the bike, while the ring light rested on the biker’s palm and signaled the biker’s intentions to oncoming traffic.
+
+![](/assets/img/bikelight2.png)
+_Figure 2. LED matrix and ring in the left and right turn hand positions, visible to both rear and oncoming traffic._
+
+* A wrist-mounted case was modeled using SOLIDWORKS and 3D printed with Velcro straps securing it to the arm. 
+* A battery pack that held three 1.5V AA batteries supplied 4.5V to the LED panels and Arduino Nano microcontroller. 
+* The proper connections were soldered together and any exposed wirings were covered with heat shrink wire casing to create the final product, seen below in Figure 3. 
+* The entire system can be turned on and off using the battery pack switch and does not hinder the biker’s grip on the handlebars.
+
+![](/assets/img/bikelight6.JPG)
+![](/assets/img/bikelight11.JPG)
+![](/assets/img/bikelight12.JPG)
+![](/assets/img/bikelight13.JPG)
+_Figure 3. Final hand-mounted turn signal component including 3D-printed case_
+
+### Rear Brake Light
+
+* Four neodymium magnets were taped onto the rear wheel spokes equidistant from each other. 
+* A Hall effect sensor was attached to the bike frame so that as the wheel spins, the sensor is able to detect the four magnets. 
+* Each time a magnet is detected by the Hall sensor, an ISR is triggered in digital pin 2 of the Arduino such that a counter is incremented every time a magnet is detected. Over a sampling period of 1 second, a wheel speed is calculated by dividing the number of counts by the sampling time. 
+* Each speed is compared to the previous wheel speed to determine if the bike is slowing down. 
+  * If the bike is slowing down, the ring LED will trigger a built-in animation to indicate deceleration. 
+  * Once the bike completely stops, the ring LED will display a solid red light. 
+* Like the hand-mounted turn signal, the rear brake light is also controlled by an Arduino Nano and powered by 3 AA batteries that supply 4.5 V to the Nano and NeoPixel ring LED. 
+* The ring LED is mounted to the case and the Hall effect sensor is wired from the Nano to the bike frame, seen below in Figure 4.
+
+![](/assets/img/bikelight10.JPG)
+![](/assets/img/bikelight17.JPG)
+![](/assets/img/bikelight16.JPG)
+![](/assets/img/bikelight9.JPG)
+_Figure 4. Rear brake system with four neodymium magnets taped on the rear wheel spokes and a Hall sensor wired to the Arduino Nano._
+
+## CAD
+### Hand-Mounted Turn Signal Case
+![](/assets/img/bikelight_cad1.png)
+![](/assets/img/bikelight_cad2.png)
+![](/assets/img/bikelight_cad3.png)
+
+### Rear Brake Signal Case
+![](/assets/img/bikelight_cad4.png)
+![](/assets/img/bikelight_cad5.png)
+
+## Circuit Schematics
+### Hand-Mounted Turn Signal
+![](/assets/img/bikelight5.png)
+
+### Rear Brake Signal
+![](/assets/img/bikelight7.png)
 
 ## Code
 ### Hand-Mounted Component
