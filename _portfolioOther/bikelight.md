@@ -93,6 +93,7 @@ _Figure 4. Rear brake system with four neodymium magnets taped on the rear wheel
 
 ## Materials
 ### Hand-Mounted Turn Signal
+
 |                       **Component**                       | **Quantity** |
 |:---------------------------------------------------------:|:------------:|
 |             ADXL335 triple-axis accelerometer             |       1      |
@@ -106,6 +107,7 @@ _Figure 4. Rear brake system with four neodymium magnets taped on the rear wheel
 |              Wire, heat shrink tubing, solder             |       -      |
 
 ### Rear Brake Signal
+
 |                  **Component**                  | **Quantity** |
 |:-----------------------------------------------:|:------------:|
 |        KY003 Magnetic Hall Effect Sensor        |       1      |
