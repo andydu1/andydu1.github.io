@@ -19,7 +19,7 @@ header:
 * The solution I developed was the BikeLight: an automated LED signaling system for bikers that includes a hand-mounted turn signal component and a brake light component on the rear of the bike. 
 * For the hand-mounted component, an accelerometer senses the position of the bicyclist’s hand and the BikeLight displays an arrow in the direction the bike is going to turn based on traditional turning hand signals. 
 
-![](/assets/img/bikelight1.JPG)
+![](/assets/img/bikelight.png)
 
 * For the rear bike-mounted component, the rear brake light blinks when the bicycle is slowing down and emits light continuously when the bike is fully stopped. 
 
@@ -95,23 +95,23 @@ _Figure 4. Rear brake system with four neodymium magnets taped on the rear wheel
 ### Hand-Mounted Turn Signal
 |                       **Component**                       | **Quantity** | **Image** |
 |:---------------------------------------------------------:|:------------:|:---------:|
-|[ADXL335 triple-axis accelerometer](https://www.adafruit.com/product/163)|1|           |
-|[Adafruit NeoPixel NeoMatrix 8x8 - 64 RGB LED Pixel Matrix](https://www.adafruit.com/product/1487)|1|           |
-|[Adafruit NeoPixel Ring - 12 x 5050 RGB LED](https://www.adafruit.com/product/1643)|1|           |
-|[1”x12” Velcro Reusable Cinch Straps](https://www.amazon.com/dp/B07MWFRWKZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)|2|           |
-|[3x 1.5V AA Battery Holder with Leads and Switch](https://www.amazon.com/gp/product/B07C6XC3MP/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)|1|           |
-|[Arduino Nano](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_5?crid=2D67BU71RRCXC&keywords=arduino+nano&qid=1651357600&sprefix=arduino+nano%2Caps%2C80&sr=8-5)|1|           |
-|[Cycling Gloves](https://www.amazon.com/BEACE-Women-Breathable-Anti-Slip-Shock-Absorbing-Motorcycle/dp/B08VFSLWVW/ref=sr_1_2?crid=24HDNWMNAXHP2&keywords=bike%2Bglove&qid=1651357356&refinements=p_89%3ABEACE&rnid=2528832011&s=apparel&sprefix=%2Caps%2C62&sr=1-2&th=1)|1|           |
+| [ADXL335 triple-axis accelerometer](https://www.adafruit.com/product/163) | 1 |           |
+| [Adafruit NeoPixel NeoMatrix 8x8 - 64 RGB LED Pixel Matrix](https://www.adafruit.com/product/1487) | 1 |           |
+| [Adafruit NeoPixel Ring - 12 x 5050 RGB LED](https://www.adafruit.com/product/1643) | 1 |           |
+| [1”x12” Velcro Reusable Cinch Straps](https://www.amazon.com/dp/B07MWFRWKZ?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 2 |           |
+| [3x 1.5V AA Battery Holder with Leads and Switch](https://www.amazon.com/gp/product/B07C6XC3MP/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | 1 |           |
+| [Arduino Nano](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_5?crid=2D67BU71RRCXC&keywords=arduino+nano&qid=1651357600&sprefix=arduino+nano%2Caps%2C80&sr=8-5) | 1 |           |
+| [Cycling Gloves](https://www.amazon.com/BEACE-Women-Breathable-Anti-Slip-Shock-Absorbing-Motorcycle/dp/B08VFSLWVW/ref=sr_1_2?crid=24HDNWMNAXHP2&keywords=bike%2Bglove&qid=1651357356&refinements=p_89%3ABEACE&rnid=2528832011&s=apparel&sprefix=%2Caps%2C62&sr=1-2&th=1) | 1 |           |
 |               3D printed wrist mounting case              |       1      |           |
 |              Wire, heat shrink tubing, solder             |       -      |           |
 
 ### Rear Brake Signal
 |                  **Component**                  | **Quantity** | **Image** |
 |:-----------------------------------------------:|:------------:|:---------:|
-|[KY003 Magnetic Hall Effect Sensor](https://www.amazon.com/dp/B085KVV82D?psc=1&ref=ppx_yo2ov_dt_b_product_details)|1|           |
-|[Adafruit NeoPixel Ring - 12 x 5050 RGB LED](https://www.adafruit.com/product/1643)|1|           |
-|[3x 1.5V AA Battery Holder with Leads and Switch](https://www.amazon.com/gp/product/B07C6XC3MP/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)|1|           |
-|[Arduino Nano](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_5?crid=2D67BU71RRCXC&keywords=arduino+nano&qid=1651357600&sprefix=arduino+nano%2Caps%2C80&sr=8-5)|1|           |
+| [KY003 Magnetic Hall Effect Sensor](https://www.amazon.com/dp/B085KVV82D?psc=1&ref=ppx_yo2ov_dt_b_product_details) | 1 |           |
+| [Adafruit NeoPixel Ring - 12 x 5050 RGB LED](https://www.adafruit.com/product/1643) | 1 |           |
+| [3x 1.5V AA Battery Holder with Leads and Switch](https://www.amazon.com/gp/product/B07C6XC3MP/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | 1 |           |
+| [Arduino Nano](https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sr_1_5?crid=2D67BU71RRCXC&keywords=arduino+nano&qid=1651357600&sprefix=arduino+nano%2Caps%2C80&sr=8-5) | 1 |           |
 |          3D printed wrist mounting case         |       1      |           |
 |         Wire, heat shrink tubing, solder        |       -      |           |
 
