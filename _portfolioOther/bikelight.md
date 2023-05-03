@@ -23,4 +23,5 @@ header:
 ![](/assets/img/hapimask2.jpg)
 
 ## Video
-<iframe width="315" height="560" src="https://youtube.com/shorts/FSqMuTuwwTE?feature=share" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/FSqMuTuwwTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
