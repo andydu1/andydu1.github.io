@@ -63,9 +63,9 @@ Andy has used various tools for prototyping, fabricating, and building devices. 
 ## Publications & Awards 
 
 * Andy was awarded the **Materials & Advanced Devices Award** by the Vanderbilt Department of Mechanical Engineering faculty
- * This award was "presented to an Outstanding Senior showing the most promise in the study and pursuit of Materials and Advanced Devices Engineering"
+  * This award was "presented to an Outstanding Senior showing the most promise in the study and pursuit of Materials and Advanced Devices Engineering"
 * Andy's Mechanical Engineering Senior Design project "Primate Pantry: Primate Food Delivery and Enrichment Device for Nashville Zoo" was awarded the **Senior Design Team Award** by the Vanderbilt Department of Mechanical Engineering faculty
- * This award was presented to a senior design team that showed "the most creativity and originality in their designs"
+  * This award was presented to a senior design team that showed "the most creativity and originality in their designs"
 * Andy's fourth-authored paper ["Large-Scale Metasurfaces Based on Grayscale Nanosphere Lithography"](https://pubs.acs.org/doi/10.1021/acsphotonics.1c00424) was published in ACS Photonics in June 2021.
 * Andy's work with the Del Fuego Project in the class "How To Make (Almost) Anything" was covered by [Vanderbilt News](https://news.vanderbilt.edu/2021/08/24/wondry-students-collaborate-with-the-del-fuego-project-to-design-innovations-in-the-coffee-drying-process/).
 * One of Andy's scanning electron microscope images was selected by the [Vanderbilt Institute of Nanoscale Science and Engineering](https://www.linkedin.com/feed/update/urn:li:activity:6868664681444208640/) as a winner of the 2021 VINSE Image Competition.
