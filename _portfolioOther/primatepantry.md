@@ -3,8 +3,8 @@ layout: single
 title: "Primate Pantry"
 excerpt: "Food delivery and enrichment devices for primates at the Nashville Zoo."
 header:
-  image: /assets/img/bikelight6.JPG
-  teaser: /assets/img/bikelight12.JPG
+  image: /assets/img/primatepantry6.JPG
+  teaser: /assets/img/primatepantry5.JPG
 
    
 ---
@@ -19,7 +19,7 @@ header:
   * This means that they tend to eat too quickly and exhibit some unnatural behaviors because they are bored and don’t have to forage for food
 * To solve this problem, our sponsors at the zoo asked us to create a series of devices that will help slow down the primates’ eating behaviors and provide enrichment by more closely mimicking their natural feeding habits in this zoo environment
 
-![](/assets/img/bikelight.png)
+![](/assets/img/primatepantry4.JPG)
 
 ## Design Requirements
 ### Enrichment
@@ -55,15 +55,28 @@ header:
 ## Solutions
 ### Puzzle Feeders
 
+![](/assets/img/primatepantry12.png)
+![](/assets/img/primatepantry13.png)
+![](/assets/img/primatepantry18.png)
+![](/assets/img/primatepantry24.png)
+![](/assets/img/primatepantry21.png)
+
 * Two puzzle feeders were developed to focus on enrichment: one with rings, one with a collar
 * Each feeder has an inner body with three holes in it and an outer component that obscures these holes in some way
   * To remove the food, the inner and outer components must be manipulated, encouraging the primates to engage with the device more than current zoo feeders
 * An acrylic shelf was placed halfway up the inside of the body to ensure that both the top and bottom halves of the feeder had food
   * This ensured that the primates were forced to interact with both halves of the device instead of just reaching into a single hole to access the food
 
+![](/assets/img/primatepantry1.png)
 
 
 ### Timed Ice Feeder
+
+![](/assets/img/primatepantry10.png)
+![](/assets/img/primatepantry19.png)
+![](/assets/img/primatepantry25.png)
+![](/assets/img/primatepantry16.JPG)
+![](/assets/img/primatepantry17.JPG)
 
 * This device focuses on delaying the release of food using a unique ice timer solution
 * An acrylic shelf and 3D printed collar hold a block of ice in place halfway up the food storage component
@@ -71,16 +84,32 @@ header:
   * Over a few hours, the ice melts, releasing the food into a 3D printed endcap
 * This forces the primates to forage for the food later in the day
 
+![](/assets/img/primatepantry8.JPG)
+![](/assets/img/primatepantry9.JPG)
+
 #### Ice Mold
+
+![](/assets/img/primatepantry26.JPG)
+![](/assets/img/primatepantry27.png)
+![](/assets/img/primatepantry28.png)
+![](/assets/img/primatepantry29.PNG)
+
 * In order for the ice to fit snugly within the 3 inch PVC body, custom ice molds were created to make 3 inch diameter blocks of ice
 * A custom 2-part mold was designed and 3D printed to cast silicone into the shape of the ice mold
 
 ### Lever Feeder
 
+![](/assets/img/primatepantry11.JPG)
+![](/assets/img/primatepantry22.png)
+![](/assets/img/primatepantry20.png)
+![](/assets/img/primatepantry14.JPG)
+![](/assets/img/primatepantry15.JPG)
+
 * Our final device focuses on using the destructive nature of the primates for food spreading
 * The primates swing a lever up and down where it hits an internal mesh food bag
   * Each time it is hit, the bag releases a small amount of food out of the top grate
   * This grate is a 3D printed screw cap to allow the food bag to be removable
+
 
 ## CAD
 ### Puzzle Feeders
@@ -96,3 +125,15 @@ header:
 ### Lever Feeder
 
 <iframe src="https://vanderbilt66.autodesk360.com/shares/public/SHd38bfQT1fb47330c9990e4cdac673ec75a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+## Poster
+
+![](/assets/img/primatepantryposter.png)
+
+## Team
+
+![](/assets/img/primatepantryteam.png)
+
+Andy Du, Lauren Chang, Erin Frankland, Lauren Grohowski, Mason Schmidt
+**Vanderbilt School of Engineering, Mechanical Engineering**
