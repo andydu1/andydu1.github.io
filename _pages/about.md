@@ -13,6 +13,7 @@ Andy is passionate about human-centered design and engineering from a systems pe
 <img src="/assets/img/Vanderbilt_University_logo.png" alt="Vanderbilt University logo" width="15%"/>
 
 _Class of 2023_
+
 _Magna Cum Laude_
 
 * **BE:** Mechanical Engineering
