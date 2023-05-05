@@ -10,6 +10,8 @@ header:
 ---
 #### Spring 2023
 
+![](/assets/img/primatepantrylogo.png)
+
 ## Problem
 
 * The Nashville Zoo is home to two types of primates, white cheeked gibbons and siamangs, which are both endangered lesser apes highly motivated by food
