@@ -3,8 +3,8 @@ layout: single
 title: "Skateboard Truck Hanger"
 excerpt: "Generatively-designed skateboard truck 3D printed with Selective Laser Sintering (SLS)."
 header:
-  image: /assets/img/skateboard2.jpg
-  teaser: /assets/img/skateboard28.jpg
+  image: /assets/img/skateboard34.JPG
+  teaser: /assets/img/skateboard31.JPG
 gallery:
   - image_path: assets/img/skateboard3.jpg
   - image_path: assets/img/skateboard4.jpg
@@ -22,6 +22,10 @@ _Generated design for AlSi10Mg_
 
 ![](/assets/img/skateboard30.png)
 _Generated design for Nylon 12_
+
+![](/assets/img/skateboard33.JPG)
+_Final skateboard_
+
 
 ## CAD Model
 ### Aluminum Model
