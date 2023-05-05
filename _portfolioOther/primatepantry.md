@@ -4,7 +4,7 @@ title: "Primate Pantry"
 excerpt: "Food delivery and enrichment devices for primates at the Nashville Zoo."
 header:
   image: /assets/img/primatepantry6.JPG
-  teaser: /assets/img/primatepantry5.JPG
+  teaser: /assets/img/primatepantry3.JPG
 
    
 ---
@@ -138,4 +138,5 @@ header:
 ![](/assets/img/primatepantryteam.png)
 
 Andy Du, Lauren Chang, Erin Frankland, Lauren Grohowski, Mason Schmidt
+
 **Vanderbilt School of Engineering, Mechanical Engineering**
