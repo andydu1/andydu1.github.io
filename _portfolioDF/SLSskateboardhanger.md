@@ -4,7 +4,7 @@ title: "Skateboard Truck Hanger"
 excerpt: "Generatively-designed skateboard truck 3D printed with Selective Laser Sintering (SLS)."
 header:
   image: /assets/img/skateboard34.JPG
-  teaser: /assets/img/skateboard31.JPG
+  teaser: /assets/img/skateboard32.JPG
 gallery:
   - image_path: assets/img/skateboard3.jpg
   - image_path: assets/img/skateboard4.jpg
