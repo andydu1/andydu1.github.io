@@ -12,9 +12,21 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 <img src="/assets/img/Vanderbilt_University_logo.png" alt="Vanderbilt University logo" width="15%"/>
 
-* **BE** in Mechanical Engineering '23, magna cum laude
+_Aug 2019 - May 2023_
+_Magna Cum Laude_
+
+* **BE** in Mechanical Engineering 
 * **Minors:** Engineering Management, Digital Fabrication
 * **Activities:** Double Major A Cappella (President, Music Director), SyBBURE Searle Undergraduate Research Program, Tikkun Olam Makers (TOM)
+
+**Johns Hopkins University**
+
+<img src="/assets/img/johnshopkinslogo.jpg" alt="Johns Hopkins logo" width="15%"/>
+
+_Beginning Fall 2023_
+
+* **MS** in Space Systems Engineering
+* Whiting School of Engineering Engineering for Professionals program
 
 
 ## Work Experience
