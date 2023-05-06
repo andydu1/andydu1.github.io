@@ -8,18 +8,19 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 ## Education
 
-**Vanderbilt University** 
+### Vanderbilt University 
 
 <img src="/assets/img/Vanderbilt_University_logo.png" alt="Vanderbilt University logo" width="15%"/>
 
 _Aug 2019 - May 2023_
+
 _Magna Cum Laude_
 
 * **BE** in Mechanical Engineering 
 * **Minors:** Engineering Management, Digital Fabrication
 * **Activities:** Double Major A Cappella (President, Music Director), SyBBURE Searle Undergraduate Research Program, Tikkun Olam Makers (TOM)
 
-**Johns Hopkins University**
+### Johns Hopkins University
 
 <img src="/assets/img/johnshopkinslogo.jpg" alt="Johns Hopkins logo" width="30%"/>
 
