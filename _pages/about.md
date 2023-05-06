@@ -10,7 +10,7 @@ Andy is passionate about human-centered design and engineering from a systems pe
 
 **Vanderbilt University** 
 
-<img src="/assets/img/Vanderbilt_University_logo.png" alt="Vanderbilt University logo" width="30%"/>
+<img src="/assets/img/Vanderbilt_University_logo.png" alt="Vanderbilt University logo" width="15%"/>
 
 _Aug 2019 - May 2023_
 _Magna Cum Laude_
@@ -21,7 +21,7 @@ _Magna Cum Laude_
 
 **Johns Hopkins University**
 
-<img src="/assets/img/johnshopkinslogo.jpg" alt="Johns Hopkins logo" width="15%"/>
+<img src="/assets/img/johnshopkinslogo.jpg" alt="Johns Hopkins logo" width="30%"/>
 
 _Beginning Fall 2023_
 
