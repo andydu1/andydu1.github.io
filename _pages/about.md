@@ -26,7 +26,7 @@ _Magna Cum Laude_
 _Beginning Fall 2023_
 
 * **MS** in Space Systems Engineering
-* Whiting School of Engineering Engineering for Professionals program
+* Engineering for Professionals program at the Whiting School of Engineering
 
 
 ## Work Experience
