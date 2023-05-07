@@ -45,5 +45,7 @@ header:
 ## Team
 
 **Andy Du**, Vanderbilt School of Engineering, Mechanical Engineering
+
 **Lauren Chang**, Vanderbilt School of Engineering, Mechanical Engineering
+
 **Lauren Grohowski**, Vanderbilt School of Engineering, Mechanical Engineering
