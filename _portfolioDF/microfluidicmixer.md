@@ -135,5 +135,11 @@ Hung, Chia -, et al. "Experimental Study on Microfluidic Mixing with Different Z
 
 Ward, Kevin. "Mixing in microfluidic devices and enhancement methods." _NCBI_, [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4634658/). Accessed 29 March 2023.
 
+## Team
+
+**Andy Du**, Vanderbilt School of Engineering, Mechanical Engineering
+
+**Kaelon McNeece**, Vanderbilt School of Engineering, Mechanical Engineering
+
 
 {% include gallery caption="Microfluidic Mixer Gallery" %}
