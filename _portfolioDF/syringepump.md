@@ -54,6 +54,10 @@ An LCD screen is mounted on the side of the box that displays the *flow rate* of
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430b83a7ea45015764?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Wiring Schematic
+
+![](/assets/img/syringewiring.png)
+
 
 ## Off-the-shelf Components
 
