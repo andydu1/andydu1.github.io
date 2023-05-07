@@ -4,7 +4,7 @@ title: "Independent Feeding Tube Device"
 excerpt: "Accessible mechanism for a 7-year old boy to feed himself through a feeding tube."
 header:
   image: /assets/img/feedingtube6.JPG
-  teaser: /assets/img/feedingtube2.HEIC
+  teaser: /assets/img/feedingtube2.jpg
 
 ---
 
@@ -38,8 +38,8 @@ header:
 
 ## Rack and Pinion
 
-![](/assets/img/feedingtube4.HEIC)
-![](/assets/img/feedingtube5.HEIC)
+![](/assets/img/feedingtube4.jpg)
+![](/assets/img/feedingtube5.jpg)
 
 * A roller pin is connected to a rack and pinion mechanism found on the outside of the device
 * The food bag is secured to a base plate such that when the roller pin is turned and it translates along the track of the rack and pinion mechanism, the food inside the bag is pushed forward and into the feeding tube
@@ -48,8 +48,8 @@ header:
 
 ## Syringe Pump
 
-![](/assets/img/feedingtube1.HEIC)
-![](/assets/img/feedingtube3.HEIC)
+![](/assets/img/feedingtube1.jpg)
+![](/assets/img/feedingtube3.jpg)
 
 * A crank mechanism and worm gear converts rotational motion from the horizontal plane to the vertical plane
   * The crank includes a lever arm to make it easier for Hugh to turn, and also has loops on the ends so that Hugh would be able to loop his pinkies through
