@@ -22,20 +22,21 @@ header:
  ![](/assets/img/phonecase1.png)
 
 
- ## CAD
+## CAD
  
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0aa89e7a07660201?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  
- ## Design
- ### Rationale
+## Design
+
+### Rationale
  
- * The case was designed with a wall thickness of 2 mm and a back thickness of 3 mm. 
-   * These thicknesses were selected to provide ample protection for the phone, as they were thick enough to protect the phone against a drop but still thin enough to maneuver the case onto the phone itself. 
- * The buttons were made accessible by designing cutouts for the power and volume buttons with 2 mm offsets. 
-   * Chamfers were also used on the button cutouts to taper the edges and improve accessibility. 
- * The touchscreen was protected using a top lip that extended from the side walls over the top surface of the phone screen. 
-   * This lip extended 3.5 mm onto the phone screen, which was a large enough distance to hold the phone in place and protect it. 
-   * Based on the “Display Active Area” in the Apple Design Guidelines technical drawings, it was also a small enough overhang to not interfere with the touchscreen.
+* The case was designed with a wall thickness of 2 mm and a back thickness of 3 mm. 
+  * These thicknesses were selected to provide ample protection for the phone, as they were thick enough to protect the phone against a drop but still thin enough to maneuver the case onto the phone itself. 
+* The buttons were made accessible by designing cutouts for the power and volume buttons with 2 mm offsets. 
+  * Chamfers were also used on the button cutouts to taper the edges and improve accessibility. 
+* The touchscreen was protected using a top lip that extended from the side walls over the top surface of the phone screen. 
+  * This lip extended 3.5 mm onto the phone screen, which was a large enough distance to hold the phone in place and protect it. 
+  * Based on the “Display Active Area” in the Apple Design Guidelines technical drawings, it was also a small enough overhang to not interfere with the touchscreen.
 
 ### Functional Component
 
