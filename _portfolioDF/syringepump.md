@@ -3,14 +3,14 @@ layout: single
 title: "Syringe Pump"
 excerpt: "A low cost, custom built instrument for administering fluids at a set rate."
 header:
-  image: /assets/img/syringe pump no bg.png
-  teaser: /assets/img/syringerender2.png
+  image: /assets/img/syringerender2.png
+  teaser: /assets/img/syringe pump no bg.png
 gallery:
   - image_path: assets/img/syringepump2.JPG
   - image_path: assets/img/syringerender3.png
   - image_path: assets/img/syringerender4.png
    
----
+--- 
 ## Purpose
 
 * Syringe pumps are motor driven devices used to **administer fluid over a period of time**.
