@@ -18,7 +18,7 @@ _Magna Cum Laude_
 
 * **BE** in Mechanical Engineering 
 * **Minors:** Engineering Management, Digital Fabrication
-* **Activities:** Double Major A Cappella (President, Music Director), SyBBURE Searle Undergraduate Research Program, Tikkun Olam Makers (TOM)
+* **Activities:** Double Major A Cappella (President, Music Director), Tau Beta Pi (Engineering Honor Society), SyBBURE Searle Undergraduate Research Program, Tikkun Olam Makers (TOM)
 
 ### Johns Hopkins University
 
