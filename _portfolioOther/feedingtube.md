@@ -60,10 +60,16 @@ header:
 
 
 ## Team
+
 **Andy Du**, Vanderbilt School of Engineering, Mechanical Engineering
+
 **Samuel Torres**, Vanderbilt School of Engineering, Mechanical Engineering
+
 **Luke Kim**, Vanderbilt School of Engineering, Mechanical Engineering
+
 **Eliza Hill**, Vanderbilt School of Engineering, Chemical Engineering
+
 **Erica Guelfi**, Vanderbilt School of Engineering, Biomedical Engineering
+
 **Chey Sirota**, Vanderbilt School of Engineering, Mechanical Engineering
 
