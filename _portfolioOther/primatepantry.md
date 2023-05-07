@@ -10,6 +10,8 @@ header:
 ---
 #### Spring 2023
 
+#### Mechanical Engineering Senior Design
+
 ![](/assets/img/primatepantrylogo.png)
 
 ## Problem
