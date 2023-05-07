@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Microfluidic Mixer"
-excerpt: "Homogeneous microfluidic mixer created with stereolithography (SLA) 3D printing."
+title: "Phone Case"
+excerpt: "Custom 3D printed phone case designed for an iPhone XS Max with a functional speaker component."
 header:
   image: /assets/img/phonecase6.png
   teaser: /assets/img/phonecase4.png
